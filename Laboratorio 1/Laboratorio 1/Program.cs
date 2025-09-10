@@ -2,8 +2,6 @@
 {
     private static void Main(string[] args)
     {
-        void v = Console.WriteLine("Hello, World!");
-
-        v;
+        Console.WriteLine("Hello, World!");
     }
 }
