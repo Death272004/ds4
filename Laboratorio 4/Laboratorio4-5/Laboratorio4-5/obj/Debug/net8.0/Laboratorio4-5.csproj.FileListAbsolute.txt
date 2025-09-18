@@ -1,0 +1,15 @@
+C:\Users\rrpin\source\repos\ds4\Laboratorio4-5\Laboratorio4-5\bin\Debug\net8.0\Laboratorio4-5.exe
+C:\Users\rrpin\source\repos\ds4\Laboratorio4-5\Laboratorio4-5\bin\Debug\net8.0\Laboratorio4-5.deps.json
+C:\Users\rrpin\source\repos\ds4\Laboratorio4-5\Laboratorio4-5\bin\Debug\net8.0\Laboratorio4-5.runtimeconfig.json
+C:\Users\rrpin\source\repos\ds4\Laboratorio4-5\Laboratorio4-5\bin\Debug\net8.0\Laboratorio4-5.dll
+C:\Users\rrpin\source\repos\ds4\Laboratorio4-5\Laboratorio4-5\bin\Debug\net8.0\Laboratorio4-5.pdb
+C:\Users\rrpin\source\repos\ds4\Laboratorio4-5\Laboratorio4-5\obj\Debug\net8.0\Laboratorio4-5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rrpin\source\repos\ds4\Laboratorio4-5\Laboratorio4-5\obj\Debug\net8.0\Laboratorio4-5.AssemblyInfoInputs.cache
+C:\Users\rrpin\source\repos\ds4\Laboratorio4-5\Laboratorio4-5\obj\Debug\net8.0\Laboratorio4-5.AssemblyInfo.cs
+C:\Users\rrpin\source\repos\ds4\Laboratorio4-5\Laboratorio4-5\obj\Debug\net8.0\Laboratorio4-5.csproj.CoreCompileInputs.cache
+C:\Users\rrpin\source\repos\ds4\Laboratorio4-5\Laboratorio4-5\obj\Debug\net8.0\Laboratorio4-5.sourcelink.json
+C:\Users\rrpin\source\repos\ds4\Laboratorio4-5\Laboratorio4-5\obj\Debug\net8.0\Laboratorio4-5.dll
+C:\Users\rrpin\source\repos\ds4\Laboratorio4-5\Laboratorio4-5\obj\Debug\net8.0\refint\Laboratorio4-5.dll
+C:\Users\rrpin\source\repos\ds4\Laboratorio4-5\Laboratorio4-5\obj\Debug\net8.0\Laboratorio4-5.pdb
+C:\Users\rrpin\source\repos\ds4\Laboratorio4-5\Laboratorio4-5\obj\Debug\net8.0\Laboratorio4-5.genruntimeconfig.cache
+C:\Users\rrpin\source\repos\ds4\Laboratorio4-5\Laboratorio4-5\obj\Debug\net8.0\ref\Laboratorio4-5.dll
