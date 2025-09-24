@@ -1,0 +1,15 @@
+C:\Users\rrpin\source\repos\ds4\Laboratorio 5\Laboratorio 5-1\Laboratorio5-1\Laboratorio5-1\bin\Debug\net8.0\Laboratorio5-1.exe
+C:\Users\rrpin\source\repos\ds4\Laboratorio 5\Laboratorio 5-1\Laboratorio5-1\Laboratorio5-1\bin\Debug\net8.0\Laboratorio5-1.deps.json
+C:\Users\rrpin\source\repos\ds4\Laboratorio 5\Laboratorio 5-1\Laboratorio5-1\Laboratorio5-1\bin\Debug\net8.0\Laboratorio5-1.runtimeconfig.json
+C:\Users\rrpin\source\repos\ds4\Laboratorio 5\Laboratorio 5-1\Laboratorio5-1\Laboratorio5-1\bin\Debug\net8.0\Laboratorio5-1.dll
+C:\Users\rrpin\source\repos\ds4\Laboratorio 5\Laboratorio 5-1\Laboratorio5-1\Laboratorio5-1\bin\Debug\net8.0\Laboratorio5-1.pdb
+C:\Users\rrpin\source\repos\ds4\Laboratorio 5\Laboratorio 5-1\Laboratorio5-1\Laboratorio5-1\obj\Debug\net8.0\Laboratorio5-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rrpin\source\repos\ds4\Laboratorio 5\Laboratorio 5-1\Laboratorio5-1\Laboratorio5-1\obj\Debug\net8.0\Laboratorio5-1.AssemblyInfoInputs.cache
+C:\Users\rrpin\source\repos\ds4\Laboratorio 5\Laboratorio 5-1\Laboratorio5-1\Laboratorio5-1\obj\Debug\net8.0\Laboratorio5-1.AssemblyInfo.cs
+C:\Users\rrpin\source\repos\ds4\Laboratorio 5\Laboratorio 5-1\Laboratorio5-1\Laboratorio5-1\obj\Debug\net8.0\Laboratorio5-1.csproj.CoreCompileInputs.cache
+C:\Users\rrpin\source\repos\ds4\Laboratorio 5\Laboratorio 5-1\Laboratorio5-1\Laboratorio5-1\obj\Debug\net8.0\Laboratorio5-1.sourcelink.json
+C:\Users\rrpin\source\repos\ds4\Laboratorio 5\Laboratorio 5-1\Laboratorio5-1\Laboratorio5-1\obj\Debug\net8.0\Laboratorio5-1.dll
+C:\Users\rrpin\source\repos\ds4\Laboratorio 5\Laboratorio 5-1\Laboratorio5-1\Laboratorio5-1\obj\Debug\net8.0\refint\Laboratorio5-1.dll
+C:\Users\rrpin\source\repos\ds4\Laboratorio 5\Laboratorio 5-1\Laboratorio5-1\Laboratorio5-1\obj\Debug\net8.0\Laboratorio5-1.pdb
+C:\Users\rrpin\source\repos\ds4\Laboratorio 5\Laboratorio 5-1\Laboratorio5-1\Laboratorio5-1\obj\Debug\net8.0\Laboratorio5-1.genruntimeconfig.cache
+C:\Users\rrpin\source\repos\ds4\Laboratorio 5\Laboratorio 5-1\Laboratorio5-1\Laboratorio5-1\obj\Debug\net8.0\ref\Laboratorio5-1.dll
