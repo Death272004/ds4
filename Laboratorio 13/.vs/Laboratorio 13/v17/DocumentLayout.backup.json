@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rrpin\\source\\repos\\ds4\\Laboratorio 13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D7829FA-BF01-4A3E-8FCB-D9B8F8B69BAC}|Laboratorio 13-2\\Laboratorio 13-2.csproj|c:\\users\\rrpin\\source\\repos\\ds4\\laboratorio 13\\laboratorio 13-2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D7829FA-BF01-4A3E-8FCB-D9B8F8B69BAC}|Laboratorio 13-2\\Laboratorio 13-2.csproj|solutionrelative:laboratorio 13-2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D7829FA-BF01-4A3E-8FCB-D9B8F8B69BAC}|Laboratorio 13-2\\Laboratorio 13-2.csproj|c:\\users\\rrpin\\source\\repos\\ds4\\laboratorio 13\\laboratorio 13-2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D7829FA-BF01-4A3E-8FCB-D9B8F8B69BAC}|Laboratorio 13-2\\Laboratorio 13-2.csproj|solutionrelative:laboratorio 13-2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\rrpin\\source\\repos\\ds4\\Laboratorio 13\\Laboratorio 13-2\\Form1.cs",
+              "RelativeDocumentMoniker": "Laboratorio 13-2\\Form1.cs",
+              "ToolTip": "C:\\Users\\rrpin\\source\\repos\\ds4\\Laboratorio 13\\Laboratorio 13-2\\Form1.cs",
+              "RelativeToolTip": "Laboratorio 13-2\\Form1.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwC0AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T17:51:58.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\rrpin\\source\\repos\\ds4\\Laboratorio 13\\Laboratorio 13-2\\Form1.cs",
+              "RelativeDocumentMoniker": "Laboratorio 13-2\\Form1.cs",
+              "ToolTip": "C:\\Users\\rrpin\\source\\repos\\ds4\\Laboratorio 13\\Laboratorio 13-2\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Laboratorio 13-2\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T17:50:49.804Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

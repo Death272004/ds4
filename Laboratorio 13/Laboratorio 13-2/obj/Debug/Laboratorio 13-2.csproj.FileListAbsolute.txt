@@ -1,0 +1,14 @@
+C:\Users\rrpin\source\repos\ds4\Laboratorio 13\Laboratorio 13-2\bin\Debug\Laboratorio 13-2.exe.config
+C:\Users\rrpin\source\repos\ds4\Laboratorio 13\Laboratorio 13-2\bin\Debug\Laboratorio 13-2.exe
+C:\Users\rrpin\source\repos\ds4\Laboratorio 13\Laboratorio 13-2\bin\Debug\Laboratorio 13-2.pdb
+C:\Users\rrpin\source\repos\ds4\Laboratorio 13\Laboratorio 13-2\bin\Debug\System.Data.SqlClient.dll
+C:\Users\rrpin\source\repos\ds4\Laboratorio 13\Laboratorio 13-2\bin\Debug\System.Data.SqlClient.xml
+C:\Users\rrpin\source\repos\ds4\Laboratorio 13\Laboratorio 13-2\obj\Debug\Laboratorio 13-2.csproj.AssemblyReference.cache
+C:\Users\rrpin\source\repos\ds4\Laboratorio 13\Laboratorio 13-2\obj\Debug\Laboratorio_13_2.Form1.resources
+C:\Users\rrpin\source\repos\ds4\Laboratorio 13\Laboratorio 13-2\obj\Debug\Laboratorio_13_2.Properties.Resources.resources
+C:\Users\rrpin\source\repos\ds4\Laboratorio 13\Laboratorio 13-2\obj\Debug\Laboratorio 13-2.csproj.GenerateResource.cache
+C:\Users\rrpin\source\repos\ds4\Laboratorio 13\Laboratorio 13-2\obj\Debug\Laboratorio 13-2.csproj.CoreCompileInputs.cache
+C:\Users\rrpin\source\repos\ds4\Laboratorio 13\Laboratorio 13-2\obj\Debug\Laborato.1045748A.Up2Date
+C:\Users\rrpin\source\repos\ds4\Laboratorio 13\Laboratorio 13-2\obj\Debug\Laboratorio 13-2.exe
+C:\Users\rrpin\source\repos\ds4\Laboratorio 13\Laboratorio 13-2\obj\Debug\Laboratorio 13-2.pdb
+C:\Users\rrpin\source\repos\ds4\Laboratorio 13\Laboratorio 13-2\obj\Debug\Laboratorio 13-2.exe.config
