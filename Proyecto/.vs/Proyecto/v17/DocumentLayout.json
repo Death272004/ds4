@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB847B3-3EA4-40AA-9234-2265A57583D8}|Proyecto\\Proyecto.csproj|c:\\users\\rrpin\\source\\repos\\ds4\\proyecto\\proyecto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB847B3-3EA4-40AA-9234-2265A57583D8}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB847B3-3EA4-40AA-9234-2265A57583D8}|Proyecto\\Proyecto.csproj|C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto\\proyecto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDB847B3-3EA4-40AA-9234-2265A57583D8}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB847B3-3EA4-40AA-9234-2265A57583D8}|Proyecto\\Proyecto.csproj|C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto\\proyecto\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB847B3-3EA4-40AA-9234-2265A57583D8}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto\\Proyecto\\Form1.cs",
+              "RelativeDocumentMoniker": "Proyecto\\Form1.cs",
+              "ToolTip": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto\\Proyecto\\Form1.cs",
+              "RelativeToolTip": "Proyecto\\Form1.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAAFIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T19:08:54.683Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto\\Proyecto\\Form1.cs",
+              "RelativeDocumentMoniker": "Proyecto\\Form1.cs",
+              "ToolTip": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto\\Proyecto\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Proyecto\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T17:51:39.968Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto\\Proyecto\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Proyecto\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto\\Proyecto\\Form1.Designer.cs",
+              "RelativeToolTip": "Proyecto\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T19:36:29.637Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
