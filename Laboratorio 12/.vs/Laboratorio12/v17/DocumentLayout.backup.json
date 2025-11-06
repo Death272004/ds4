@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rrpin\\source\\repos\\ds4\\Laboratorio12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17AC25D3-5507-4DA5-9525-04BC3A630511}|Laboratorio 12-3\\Laboratorio 12-3.csproj|c:\\users\\rrpin\\source\\repos\\ds4\\laboratorio12\\laboratorio 12-3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17AC25D3-5507-4DA5-9525-04BC3A630511}|Laboratorio 12-3\\Laboratorio 12-3.csproj|solutionrelative:laboratorio 12-3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AC25D3-5507-4DA5-9525-04BC3A630511}|Laboratorio 12-3\\Laboratorio 12-3.csproj|c:\\users\\rrpin\\source\\repos\\ds4\\laboratorio12\\laboratorio 12-3\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17AC25D3-5507-4DA5-9525-04BC3A630511}|Laboratorio 12-3\\Laboratorio 12-3.csproj|solutionrelative:laboratorio 12-3\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AC25D3-5507-4DA5-9525-04BC3A630511}|Laboratorio 12-3\\Laboratorio 12-3.csproj|c:\\users\\rrpin\\source\\repos\\ds4\\laboratorio12\\laboratorio 12-3\\perimetro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17AC25D3-5507-4DA5-9525-04BC3A630511}|Laboratorio 12-3\\Laboratorio 12-3.csproj|solutionrelative:laboratorio 12-3\\perimetro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AC25D3-5507-4DA5-9525-04BC3A630511}|Laboratorio 12-3\\Laboratorio 12-3.csproj|c:\\users\\rrpin\\source\\repos\\ds4\\laboratorio12\\laboratorio 12-3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{17AC25D3-5507-4DA5-9525-04BC3A630511}|Laboratorio 12-3\\Laboratorio 12-3.csproj|solutionrelative:laboratorio 12-3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1998CE62-F1AF-4AD1-8BCA-55390469EAF9}|Laboratorio 12-2\\Laboratorio 12-2.csproj|c:\\users\\rrpin\\source\\repos\\ds4\\laboratorio12\\laboratorio 12-2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1998CE62-F1AF-4AD1-8BCA-55390469EAF9}|Laboratorio 12-2\\Laboratorio 12-2.csproj|solutionrelative:laboratorio 12-2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1998CE62-F1AF-4AD1-8BCA-55390469EAF9}|Laboratorio 12-2\\Laboratorio 12-2.csproj|c:\\users\\rrpin\\source\\repos\\ds4\\laboratorio12\\laboratorio 12-2\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1998CE62-F1AF-4AD1-8BCA-55390469EAF9}|Laboratorio 12-2\\Laboratorio 12-2.csproj|solutionrelative:laboratorio 12-2\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D4F6F8-58CE-4D27-AAF7-9B364BCBEB17}|Laboratorio12-1\\Laboratorio12-1.csproj|C:\\Users\\rrpin\\source\\repos\\ds4\\Laboratorio12\\laboratorio12-1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{10D4F6F8-58CE-4D27-AAF7-9B364BCBEB17}|Laboratorio12-1\\Laboratorio12-1.csproj|solutionrelative:laboratorio12-1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1998CE62-F1AF-4AD1-8BCA-55390469EAF9}|Laboratorio 12-2\\Laboratorio 12-2.csproj|c:\\users\\rrpin\\source\\repos\\ds4\\laboratorio12\\laboratorio 12-2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1998CE62-F1AF-4AD1-8BCA-55390469EAF9}|Laboratorio 12-2\\Laboratorio 12-2.csproj|solutionrelative:laboratorio 12-2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Area.cs",
+              "DocumentMoniker": "C:\\Users\\rrpin\\source\\repos\\ds4\\Laboratorio12\\Laboratorio 12-3\\Area.cs",
+              "RelativeDocumentMoniker": "Laboratorio 12-3\\Area.cs",
+              "ToolTip": "C:\\Users\\rrpin\\source\\repos\\ds4\\Laboratorio12\\Laboratorio 12-3\\Area.cs",
+              "RelativeToolTip": "Laboratorio 12-3\\Area.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T21:13:03.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Perimetro.cs",
+              "DocumentMoniker": "C:\\Users\\rrpin\\source\\repos\\ds4\\Laboratorio12\\Laboratorio 12-3\\Perimetro.cs",
+              "RelativeDocumentMoniker": "Laboratorio 12-3\\Perimetro.cs",
+              "ToolTip": "C:\\Users\\rrpin\\source\\repos\\ds4\\Laboratorio12\\Laboratorio 12-3\\Perimetro.cs",
+              "RelativeToolTip": "Laboratorio 12-3\\Perimetro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T21:11:40.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\rrpin\\source\\repos\\ds4\\Laboratorio12\\Laboratorio 12-3\\Form1.cs",
+              "RelativeDocumentMoniker": "Laboratorio 12-3\\Form1.cs",
+              "ToolTip": "C:\\Users\\rrpin\\source\\repos\\ds4\\Laboratorio12\\Laboratorio 12-3\\Form1.cs",
+              "RelativeToolTip": "Laboratorio 12-3\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T21:00:36.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\rrpin\\source\\repos\\ds4\\Laboratorio12\\Laboratorio 12-3\\Form1.cs",
+              "RelativeDocumentMoniker": "Laboratorio 12-3\\Form1.cs",
+              "ToolTip": "C:\\Users\\rrpin\\source\\repos\\ds4\\Laboratorio12\\Laboratorio 12-3\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Laboratorio 12-3\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T20:54:27.292Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\rrpin\\source\\repos\\ds4\\Laboratorio12\\Laboratorio 12-2\\Class1.cs",
+              "RelativeDocumentMoniker": "Laboratorio 12-2\\Class1.cs",
+              "ToolTip": "C:\\Users\\rrpin\\source\\repos\\ds4\\Laboratorio12\\Laboratorio 12-2\\Class1.cs",
+              "RelativeToolTip": "Laboratorio 12-2\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T20:51:32.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\rrpin\\source\\repos\\ds4\\Laboratorio12\\Laboratorio 12-2\\Form1.cs",
+              "RelativeDocumentMoniker": "Laboratorio 12-2\\Form1.cs",
+              "ToolTip": "C:\\Users\\rrpin\\source\\repos\\ds4\\Laboratorio12\\Laboratorio 12-2\\Form1.cs",
+              "RelativeToolTip": "Laboratorio 12-2\\Form1.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T20:34:42.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\rrpin\\source\\repos\\ds4\\Laboratorio12\\Laboratorio 12-2\\Form1.cs",
+              "RelativeDocumentMoniker": "Laboratorio 12-2\\Form1.cs",
+              "ToolTip": "C:\\Users\\rrpin\\source\\repos\\ds4\\Laboratorio12\\Laboratorio 12-2\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Laboratorio 12-2\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T20:29:09.096Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\rrpin\\source\\repos\\ds4\\Laboratorio12\\Laboratorio12-1\\Form1.cs",
+              "RelativeDocumentMoniker": "Laboratorio12-1\\Form1.cs",
+              "ToolTip": "C:\\Users\\rrpin\\source\\repos\\ds4\\Laboratorio12\\Laboratorio12-1\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Laboratorio12-1\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T19:22:15.852Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

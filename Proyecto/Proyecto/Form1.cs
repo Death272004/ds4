@@ -130,6 +130,7 @@ namespace Proyecto
         {
             double resultadoFinal = 0;
             string operacionTexto = "";
+
             if (!string.IsNullOrEmpty(operacionEspecial))
             {
                 valor = double.Parse(Pantalla.Text);
@@ -159,10 +160,11 @@ namespace Proyecto
             }
             else if (expresion.Count > 0)
             {
-                if (!nuevoNumero || expresion.Count % 2 == 1)
+                if (!nuevoNumero)
                 {
                     expresion.Add(Pantalla.Text);
                 }
+
                 if (expresion.Count >= 3 && expresion.Count % 2 == 1)
                 {
                     resultadoFinal = EvaluarExpresion(expresion);
@@ -172,14 +174,21 @@ namespace Proyecto
                 }
                 else
                 {
+                    // Si no hay una expresión completa, guardar solo el número actual
                     resultadoFinal = double.Parse(Pantalla.Text);
+                    operacionTexto = Pantalla.Text;
+                    GuardarOperacion(operacionTexto, resultadoFinal.ToString(), "Num");
                 }
+
                 expresion.Clear();
                 nuevoNumero = true;
             }
             else
             {
+                // Si no hay expresión ni operación especial, guardar solo el número
                 resultadoFinal = double.Parse(Pantalla.Text);
+                operacionTexto = Pantalla.Text;
+                GuardarOperacion(operacionTexto, resultadoFinal.ToString(), "Num");
             }
 
             operacionPendiente = "";
@@ -192,6 +201,8 @@ namespace Proyecto
             {
                 throw new InvalidOperationException("Expresión incompleta");
             }
+
+            // Primero procesar multiplicaciones y divisiones
             for (int i = 0; i < expr.Count; i++)
             {
                 if (expr[i] == "*" || expr[i] == "/")
@@ -205,6 +216,8 @@ namespace Proyecto
                     i--;
                 }
             }
+
+            // Luego procesar sumas y restas
             double resultado = double.Parse(expr[0]);
             for (int i = 1; i < expr.Count; i += 2)
             {
@@ -244,16 +257,28 @@ namespace Proyecto
             {
                 using (SqlConnection conn = new SqlConnection(connectionString))
                 {
-                    string query = "SELECT * FROM HISTORIAL ORDER BY ID DESC";
+                    string query = "SELECT OPERACION, RESULTADO, FECHA FROM HISTORIAL ORDER BY ID DESC";
                     SqlCommand cmd = new SqlCommand(query, conn);
                     conn.Open();
                     SqlDataReader reader = cmd.ExecuteReader();
                     while (reader.Read())
                     {
-                        registros += $"{reader["FECHA"]} | {reader["OPERACION"]} = {reader["RESULTADO"]}\n";
+                        string operacion = reader["OPERACION"].ToString();
+                        string resultado = reader["RESULTADO"].ToString();
+                        string fecha = Convert.ToDateTime(reader["FECHA"]).ToString("g");
+
+                        registros += $"{fecha} | {operacion} = {resultado}\n";
                     }
                 }
-                MessageBox.Show(registros, "Historial de operaciones");
+
+                if (string.IsNullOrEmpty(registros))
+                {
+                    MessageBox.Show("No hay operaciones en el historial", "Historial de operaciones");
+                }
+                else
+                {
+                    MessageBox.Show(registros, "Historial de operaciones");
+                }
             }
             catch (Exception ex)
             {
