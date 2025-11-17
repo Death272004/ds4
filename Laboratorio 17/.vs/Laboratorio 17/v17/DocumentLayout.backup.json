@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rrpin\\source\\repos\\ds4\\Laboratorio 17\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AEB1CD6E-5FE5-42FD-88AF-137D58B2233B}|Laboratorio 17-1\\Laboratorio 17-1.csproj|C:\\Users\\rrpin\\source\\repos\\ds4\\Laboratorio 17\\laboratorio 17-1\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AEB1CD6E-5FE5-42FD-88AF-137D58B2233B}|Laboratorio 17-1\\Laboratorio 17-1.csproj|solutionrelative:laboratorio 17-1\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEB1CD6E-5FE5-42FD-88AF-137D58B2233B}|Laboratorio 17-1\\Laboratorio 17-1.csproj|c:\\users\\rrpin\\source\\repos\\ds4\\laboratorio 17\\laboratorio 17-1\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEB1CD6E-5FE5-42FD-88AF-137D58B2233B}|Laboratorio 17-1\\Laboratorio 17-1.csproj|solutionrelative:laboratorio 17-1\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEB1CD6E-5FE5-42FD-88AF-137D58B2233B}|Laboratorio 17-1\\Laboratorio 17-1.csproj|C:\\Users\\rrpin\\source\\repos\\ds4\\Laboratorio 17\\laboratorio 17-1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AEB1CD6E-5FE5-42FD-88AF-137D58B2233B}|Laboratorio 17-1\\Laboratorio 17-1.csproj|solutionrelative:laboratorio 17-1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebForm1.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\rrpin\\source\\repos\\ds4\\Laboratorio 17\\Laboratorio 17-1\\WebForm1.aspx.cs",
+              "RelativeDocumentMoniker": "Laboratorio 17-1\\WebForm1.aspx.cs",
+              "ToolTip": "C:\\Users\\rrpin\\source\\repos\\ds4\\Laboratorio 17\\Laboratorio 17-1\\WebForm1.aspx.cs*",
+              "RelativeToolTip": "Laboratorio 17-1\\WebForm1.aspx.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T22:12:23.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\rrpin\\source\\repos\\ds4\\Laboratorio 17\\Laboratorio 17-1\\Web.config",
+              "RelativeDocumentMoniker": "Laboratorio 17-1\\Web.config",
+              "ToolTip": "C:\\Users\\rrpin\\source\\repos\\ds4\\Laboratorio 17\\Laboratorio 17-1\\Web.config",
+              "RelativeToolTip": "Laboratorio 17-1\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-11-12T22:05:35.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "C:\\Users\\rrpin\\source\\repos\\ds4\\Laboratorio 17\\Laboratorio 17-1\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "Laboratorio 17-1\\WebForm1.aspx",
+              "ToolTip": "C:\\Users\\rrpin\\source\\repos\\ds4\\Laboratorio 17\\Laboratorio 17-1\\WebForm1.aspx*",
+              "RelativeToolTip": "Laboratorio 17-1\\WebForm1.aspx*",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-12T20:00:49.793Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
