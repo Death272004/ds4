@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rrpin\\source\\repos\\ds4\\Laboratorio 18\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD047AF7-6F98-4012-A2A7-42C16E6BBC9E}|Laboratorio 18-1\\Laboratorio 18-1.csproj|c:\\users\\rrpin\\source\\repos\\ds4\\laboratorio 18\\laboratorio 18-1\\views\\access\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD047AF7-6F98-4012-A2A7-42C16E6BBC9E}|Laboratorio 18-1\\Laboratorio 18-1.csproj|solutionrelative:laboratorio 18-1\\views\\access\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD047AF7-6F98-4012-A2A7-42C16E6BBC9E}|Laboratorio 18-1\\Laboratorio 18-1.csproj|C:\\Users\\rrpin\\source\\repos\\ds4\\Laboratorio 18\\laboratorio 18-1\\controllers\\accesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD047AF7-6F98-4012-A2A7-42C16E6BBC9E}|Laboratorio 18-1\\Laboratorio 18-1.csproj|solutionrelative:laboratorio 18-1\\controllers\\accesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD047AF7-6F98-4012-A2A7-42C16E6BBC9E}|Laboratorio 18-1\\Laboratorio 18-1.csproj|C:\\Users\\rrpin\\source\\repos\\ds4\\Laboratorio 18\\laboratorio 18-1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD047AF7-6F98-4012-A2A7-42C16E6BBC9E}|Laboratorio 18-1\\Laboratorio 18-1.csproj|solutionrelative:laboratorio 18-1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD047AF7-6F98-4012-A2A7-42C16E6BBC9E}|Laboratorio 18-1\\Laboratorio 18-1.csproj|C:\\Users\\rrpin\\source\\repos\\ds4\\Laboratorio 18\\laboratorio 18-1\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD047AF7-6F98-4012-A2A7-42C16E6BBC9E}|Laboratorio 18-1\\Laboratorio 18-1.csproj|solutionrelative:laboratorio 18-1\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD047AF7-6F98-4012-A2A7-42C16E6BBC9E}|Laboratorio 18-1\\Laboratorio 18-1.csproj|C:\\Users\\rrpin\\source\\repos\\ds4\\Laboratorio 18\\laboratorio 18-1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD047AF7-6F98-4012-A2A7-42C16E6BBC9E}|Laboratorio 18-1\\Laboratorio 18-1.csproj|solutionrelative:laboratorio 18-1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rrpin\\source\\repos\\ds4\\Laboratorio 18\\Laboratorio 18-1\\Views\\Access\\Index.cshtml",
+              "RelativeDocumentMoniker": "Laboratorio 18-1\\Views\\Access\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rrpin\\source\\repos\\ds4\\Laboratorio 18\\Laboratorio 18-1\\Views\\Access\\Index.cshtml",
+              "RelativeToolTip": "Laboratorio 18-1\\Views\\Access\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-18T19:53:04.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccessController.cs",
+              "DocumentMoniker": "C:\\Users\\rrpin\\source\\repos\\ds4\\Laboratorio 18\\Laboratorio 18-1\\Controllers\\AccessController.cs",
+              "RelativeDocumentMoniker": "Laboratorio 18-1\\Controllers\\AccessController.cs",
+              "ToolTip": "C:\\Users\\rrpin\\source\\repos\\ds4\\Laboratorio 18\\Laboratorio 18-1\\Controllers\\AccessController.cs",
+              "RelativeToolTip": "Laboratorio 18-1\\Controllers\\AccessController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T19:49:44.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\rrpin\\source\\repos\\ds4\\Laboratorio 18\\Laboratorio 18-1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Laboratorio 18-1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\rrpin\\source\\repos\\ds4\\Laboratorio 18\\Laboratorio 18-1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Laboratorio 18-1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-18T19:37:09.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\rrpin\\source\\repos\\ds4\\Laboratorio 18\\Laboratorio 18-1\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "Laboratorio 18-1\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\rrpin\\source\\repos\\ds4\\Laboratorio 18\\Laboratorio 18-1\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "Laboratorio 18-1\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T19:35:44.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rrpin\\source\\repos\\ds4\\Laboratorio 18\\Laboratorio 18-1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Laboratorio 18-1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rrpin\\source\\repos\\ds4\\Laboratorio 18\\Laboratorio 18-1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Laboratorio 18-1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-18T19:31:55.506Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
