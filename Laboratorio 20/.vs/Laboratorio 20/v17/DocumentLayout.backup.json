@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rrpin\\source\\repos\\ds4\\Laboratorio 20\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4248AC6E-6B4E-4189-BEFA-B72E474B92E9}|Laboratorio 20-3\\Laboratorio 20-3.csproj|C:\\Users\\rrpin\\source\\repos\\ds4\\Laboratorio 20\\laboratorio 20-3\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4248AC6E-6B4E-4189-BEFA-B72E474B92E9}|Laboratorio 20-3\\Laboratorio 20-3.csproj|solutionrelative:laboratorio 20-3\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4248AC6E-6B4E-4189-BEFA-B72E474B92E9}|Laboratorio 20-3\\Laboratorio 20-3.csproj|c:\\users\\rrpin\\source\\repos\\ds4\\laboratorio 20\\laboratorio 20-3\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4248AC6E-6B4E-4189-BEFA-B72E474B92E9}|Laboratorio 20-3\\Laboratorio 20-3.csproj|solutionrelative:laboratorio 20-3\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4248AC6E-6B4E-4189-BEFA-B72E474B92E9}|Laboratorio 20-3\\Laboratorio 20-3.csproj|C:\\Users\\rrpin\\source\\repos\\ds4\\Laboratorio 20\\laboratorio 20-3\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4248AC6E-6B4E-4189-BEFA-B72E474B92E9}|Laboratorio 20-3\\Laboratorio 20-3.csproj|solutionrelative:laboratorio 20-3\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\rrpin\\source\\repos\\ds4\\Laboratorio 20\\Laboratorio 20-3\\Web.config",
+              "RelativeDocumentMoniker": "Laboratorio 20-3\\Web.config",
+              "ToolTip": "C:\\Users\\rrpin\\source\\repos\\ds4\\Laboratorio 20\\Laboratorio 20-3\\Web.config",
+              "RelativeToolTip": "Laboratorio 20-3\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-11-20T18:21:01.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\rrpin\\source\\repos\\ds4\\Laboratorio 20\\Laboratorio 20-3\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "Laboratorio 20-3\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\rrpin\\source\\repos\\ds4\\Laboratorio 20\\Laboratorio 20-3\\Default.aspx.cs",
+              "RelativeToolTip": "Laboratorio 20-3\\Default.aspx.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAApwJYAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T18:05:52.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\rrpin\\source\\repos\\ds4\\Laboratorio 20\\Laboratorio 20-3\\Default.aspx",
+              "RelativeDocumentMoniker": "Laboratorio 20-3\\Default.aspx",
+              "ToolTip": "C:\\Users\\rrpin\\source\\repos\\ds4\\Laboratorio 20\\Laboratorio 20-3\\Default.aspx",
+              "RelativeToolTip": "Laboratorio 20-3\\Default.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-20T18:04:03.575Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
