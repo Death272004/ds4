@@ -3,72 +3,144 @@
   "WorkspaceRootPath": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EDB847B3-3EA4-40AA-9234-2265A57583D8}|Proyecto\\Proyecto.csproj|c:\\users\\rrpin\\source\\repos\\ds4\\proyecto\\proyecto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDB847B3-3EA4-40AA-9234-2265A57583D8}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C349418E-C9B9-487E-9E44-308D346DD174}|CalculadoraAPI\\CalculadoraAPI.csproj|c:\\users\\rrpin\\source\\repos\\ds4\\proyecto\\calculadoraapi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C349418E-C9B9-487E-9E44-308D346DD174}|CalculadoraAPI\\CalculadoraAPI.csproj|solutionrelative:calculadoraapi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDB847B3-3EA4-40AA-9234-2265A57583D8}|Proyecto\\Proyecto.csproj|C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto\\proyecto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EDB847B3-3EA4-40AA-9234-2265A57583D8}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{C349418E-C9B9-487E-9E44-308D346DD174}|CalculadoraAPI\\CalculadoraAPI.csproj|C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto\\calculadoraapi\\controllers\\calculadoracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C349418E-C9B9-487E-9E44-308D346DD174}|CalculadoraAPI\\CalculadoraAPI.csproj|solutionrelative:calculadoraapi\\controllers\\calculadoracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDB847B3-3EA4-40AA-9234-2265A57583D8}|Proyecto\\Proyecto.csproj|C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto\\proyecto\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDB847B3-3EA4-40AA-9234-2265A57583D8}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C349418E-C9B9-487E-9E44-308D346DD174}|CalculadoraAPI\\CalculadoraAPI.csproj|C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto\\calculadoraapi\\models\\calculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C349418E-C9B9-487E-9E44-308D346DD174}|CalculadoraAPI\\CalculadoraAPI.csproj|solutionrelative:calculadoraapi\\models\\calculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C349418E-C9B9-487E-9E44-308D346DD174}|CalculadoraAPI\\CalculadoraAPI.csproj|C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto\\calculadoraapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C349418E-C9B9-487E-9E44-308D346DD174}|CalculadoraAPI\\CalculadoraAPI.csproj|solutionrelative:calculadoraapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C349418E-C9B9-487E-9E44-308D346DD174}|CalculadoraAPI\\CalculadoraAPI.csproj|C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto\\calculadoraapi\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C349418E-C9B9-487E-9E44-308D346DD174}|CalculadoraAPI\\CalculadoraAPI.csproj|solutionrelative:calculadoraapi\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C349418E-C9B9-487E-9E44-308D346DD174}|CalculadoraAPI\\CalculadoraAPI.csproj|C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto\\calculadoraapi\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C349418E-C9B9-487E-9E44-308D346DD174}|CalculadoraAPI\\CalculadoraAPI.csproj|solutionrelative:calculadoraapi\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C349418E-C9B9-487E-9E44-308D346DD174}|CalculadoraAPI\\CalculadoraAPI.csproj|C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto\\calculadoraapi\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C349418E-C9B9-487E-9E44-308D346DD174}|CalculadoraAPI\\CalculadoraAPI.csproj|solutionrelative:calculadoraapi\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C349418E-C9B9-487E-9E44-308D346DD174}|CalculadoraAPI\\CalculadoraAPI.csproj|C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto\\calculadoraapi\\models\\ws\\reply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C349418E-C9B9-487E-9E44-308D346DD174}|CalculadoraAPI\\CalculadoraAPI.csproj|solutionrelative:calculadoraapi\\models\\ws\\reply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 1,
+      "Orientation": 0,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 200,
-          "SelectedChildIndex": 0,
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto\\Proyecto\\Form1.cs",
-              "RelativeDocumentMoniker": "Proyecto\\Form1.cs",
-              "ToolTip": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto\\Proyecto\\Form1.cs",
-              "RelativeToolTip": "Proyecto\\Form1.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAAAFIAAAAiAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto\\CalculadoraAPI\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "CalculadoraAPI\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto\\CalculadoraAPI\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "CalculadoraAPI\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T19:08:54.683Z",
-              "IsPinned": true,
+              "WhenOpened": "2025-11-26T00:36:35.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto\\CalculadoraAPI\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CalculadoraAPI\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto\\CalculadoraAPI\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CalculadoraAPI\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAAFkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-26T00:36:03.474Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto\\Proyecto\\Form1.cs",
-              "RelativeDocumentMoniker": "Proyecto\\Form1.cs",
-              "ToolTip": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto\\Proyecto\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Proyecto\\Form1.cs [Dise\u00F1o]",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto\\CalculadoraAPI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CalculadoraAPI\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto\\CalculadoraAPI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CalculadoraAPI\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T17:51:39.968Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "WhenOpened": "2025-11-26T00:35:31.773Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto\\Proyecto\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "Proyecto\\Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto\\Proyecto\\Form1.Designer.cs",
-              "RelativeToolTip": "Proyecto\\Form1.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Calculo.cs",
+              "DocumentMoniker": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto\\CalculadoraAPI\\Models\\Calculo.cs",
+              "RelativeDocumentMoniker": "CalculadoraAPI\\Models\\Calculo.cs",
+              "ToolTip": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto\\CalculadoraAPI\\Models\\Calculo.cs",
+              "RelativeToolTip": "CalculadoraAPI\\Models\\Calculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T19:36:29.637Z"
+              "WhenOpened": "2025-11-25T16:31:16.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculadoraController.cs",
+              "DocumentMoniker": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto\\CalculadoraAPI\\Controllers\\CalculadoraController.cs",
+              "RelativeDocumentMoniker": "CalculadoraAPI\\Controllers\\CalculadoraController.cs",
+              "ToolTip": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto\\CalculadoraAPI\\Controllers\\CalculadoraController.cs",
+              "RelativeToolTip": "CalculadoraAPI\\Controllers\\CalculadoraController.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAuwO0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T16:28:30.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto\\CalculadoraAPI\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "CalculadoraAPI\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto\\CalculadoraAPI\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "CalculadoraAPI\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T16:27:07.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Reply.cs",
+              "DocumentMoniker": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto\\CalculadoraAPI\\Models\\WS\\Reply.cs",
+              "RelativeDocumentMoniker": "CalculadoraAPI\\Models\\WS\\Reply.cs",
+              "ToolTip": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto\\CalculadoraAPI\\Models\\WS\\Reply.cs",
+              "RelativeToolTip": "CalculadoraAPI\\Models\\WS\\Reply.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T16:26:19.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto\\CalculadoraAPI\\Web.config",
+              "RelativeDocumentMoniker": "CalculadoraAPI\\Web.config",
+              "ToolTip": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto\\CalculadoraAPI\\Web.config",
+              "RelativeToolTip": "CalculadoraAPI\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-11-25T16:17:45.858Z",
+              "EditorCaption": ""
             }
           ]
         }
