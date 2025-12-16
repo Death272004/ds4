@@ -1,0 +1,642 @@
+2025-12-01 19:00:48.161 -05:00 [INF] Iniciando Monitor de Periféricos Service
+2025-12-01 19:00:48.610 -05:00 [INF] Monitor Worker iniciado
+2025-12-01 19:00:48.831 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-12-01 19:00:48.853 -05:00 [INF] Hosting environment: Production
+2025-12-01 19:00:48.861 -05:00 [INF] Content root path: C:\Users\rrpin\source\repos\ds4\Proyecto Final\MonitorService
+2025-12-01 19:00:49.047 -05:00 [INF] Conexión a base de datos establecida correctamente
+2025-12-01 19:00:49.266 -05:00 [INF] 🔍 USB-A Puerto 1: Estado inicial - CONECTADO
+2025-12-01 19:00:49.456 -05:00 [INF] 🔍 USB-A Puerto 2: Estado inicial - CONECTADO
+2025-12-01 19:00:49.468 -05:00 [INF] 🔍 USB-C Puerto 1: Estado inicial - LIBRE
+2025-12-01 19:00:49.473 -05:00 [INF] 🔍 Puerto HDMI: Estado inicial - CONECTADO
+2025-12-01 19:00:49.479 -05:00 [INF] 🔍 Jack Audio: Estado inicial - LIBRE
+2025-12-01 19:00:49.484 -05:00 [INF] 🔍 Lector SD: Estado inicial - CONECTADO
+2025-12-01 19:00:50.609 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:00:56.736 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:01:02.922 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:01:02.928 -05:00 [INF] Periférico conectado: Tzumi SoundPlay (USB)
+2025-12-01 19:01:03.093 -05:00 [INF] Periférico conectado: Microsoft Print to PDF (Impresora)
+2025-12-01 19:01:03.108 -05:00 [INF] Periférico conectado: OneNote (Desktop) (Impresora)
+2025-12-01 19:01:03.121 -05:00 [INF] Periférico conectado: Concentrador raíz USB (USB 3.0) (USB)
+2025-12-01 19:01:03.136 -05:00 [INF] Periférico conectado: Serie estándar sobre el vínculo Bluetooth (COM3) (USB)
+2025-12-01 19:01:03.151 -05:00 [INF] Periférico conectado: POCO X3 GT Hands-Free HF (USB)
+2025-12-01 19:01:03.166 -05:00 [INF] Periférico conectado: Servicio de inserción de objeto (USB)
+2025-12-01 19:01:03.180 -05:00 [INF] Periférico conectado: Realtek High Definition Audio (Auriculares)
+2025-12-01 19:01:03.194 -05:00 [INF] Periférico conectado: POCO X3 GT Transporte AVRCP (USB)
+2025-12-01 19:01:03.208 -05:00 [INF] Periférico conectado: Concentrador raíz USB (USB 3.0) (USB)
+2025-12-01 19:01:03.221 -05:00 [INF] Periférico conectado: Servicio de red de área personal (USB)
+2025-12-01 19:01:03.235 -05:00 [INF] Periférico conectado: Monitor PnP genérico (Monitor)
+2025-12-01 19:01:03.249 -05:00 [INF] Periférico conectado: Tzumi SoundPlay Transporte AVRCP (USB)
+2025-12-01 19:01:03.270 -05:00 [INF] Periférico conectado: Enumerador Bluetooth de Microsoft (USB)
+2025-12-01 19:01:03.285 -05:00 [INF] Periférico conectado: Steam Streaming Speakers (Auriculares)
+2025-12-01 19:01:03.300 -05:00 [INF] Periférico conectado: POCO X3 GT (USB)
+2025-12-01 19:01:03.314 -05:00 [INF] Periférico conectado: HP TrueVision HD Camera (USB)
+2025-12-01 19:01:03.325 -05:00 [INF] Periférico conectado: POCO X3 GT A2DP SNK (USB)
+2025-12-01 19:01:03.337 -05:00 [INF] Periférico conectado: Dispositivo compuesto USB (USB)
+2025-12-01 19:01:03.348 -05:00 [INF] Periférico conectado: Servicio NAP de red de área personal (USB)
+2025-12-01 19:01:03.360 -05:00 [INF] Periférico conectado: Serie estándar sobre el vínculo Bluetooth (COM4) (USB)
+2025-12-01 19:01:03.371 -05:00 [INF] Periférico conectado: Servicio de acceso a SIM (USB)
+2025-12-01 19:01:03.382 -05:00 [INF] Periférico conectado: POCO X3 GT Hands-Free HF Audio (USB)
+2025-12-01 19:01:03.394 -05:00 [INF] Periférico conectado: AMD High Definition Audio Device (Auriculares)
+2025-12-01 19:01:03.405 -05:00 [INF] Periférico conectado: Tzumi SoundPlay Hands-Free (USB)
+2025-12-01 19:01:03.416 -05:00 [INF] Periférico conectado: AMD Streaming Audio Device (Auriculares)
+2025-12-01 19:01:03.428 -05:00 [INF] Periférico conectado: Servicio de puerta de enlace de audio de auriculares con micrófono (USB)
+2025-12-01 19:01:03.439 -05:00 [INF] Periférico conectado: Dispositivo periférico Bluetooth (USB)
+2025-12-01 19:01:03.451 -05:00 [INF] Periférico conectado: SMS/MMS (USB)
+2025-12-01 19:01:03.469 -05:00 [INF] Periférico conectado: Tzumi SoundPlay (USB)
+2025-12-01 19:01:03.481 -05:00 [INF] Periférico conectado: Dispositivo periférico Bluetooth (USB)
+2025-12-01 19:01:03.492 -05:00 [INF] Periférico conectado: Steam Streaming Microphone (Auriculares)
+2025-12-01 19:01:03.502 -05:00 [INF] Periférico conectado: Dispositivo periférico Bluetooth (USB)
+2025-12-01 19:01:03.514 -05:00 [INF] Periférico conectado: Tzumi SoundPlay Transporte AVRCP (USB)
+2025-12-01 19:01:03.525 -05:00 [INF] Periférico conectado: Realtek Bluetooth 4.2 Adapter (USB)
+2025-12-01 19:01:03.536 -05:00 [INF] Periférico conectado: Servicio de acceso a la guía telefónica (PSE) (USB)
+2025-12-01 19:01:03.547 -05:00 [INF] Periférico conectado: ELAN Input Device (Mouse)
+2025-12-01 19:01:03.559 -05:00 [INF] Periférico conectado: Bluetooth Device (Personal Area Network) (USB)
+2025-12-01 19:01:03.569 -05:00 [INF] Periférico conectado: POCO X3 GT Transporte AVRCP (USB)
+2025-12-01 19:01:03.581 -05:00 [INF] Periférico conectado: Enumerador de Bluetooth LE de Microsoft (USB)
+2025-12-01 19:01:03.593 -05:00 [INF] Periférico conectado: AMD Audio Device (Auriculares)
+2025-12-01 19:01:03.604 -05:00 [INF] Periférico conectado: Mejorado (101 ó 102 teclas) (Teclado)
+2025-12-01 19:01:03.617 -05:00 [INF] Periférico conectado: Tzumi SoundPlay Hands-Free AG (USB)
+2025-12-01 19:01:03.629 -05:00 [INF] Periférico conectado: Bluetooth Device (RFCOMM Protocol TDI) (USB)
+2025-12-01 19:01:09.746 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:01:15.996 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:01:22.226 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:01:28.532 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:01:34.729 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:01:40.938 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:01:47.135 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:01:53.516 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:01:59.872 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:02:06.164 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:02:12.373 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:02:18.594 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:02:24.797 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:02:31.079 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:02:37.401 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:02:43.735 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:02:50.059 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:02:56.396 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:03:02.703 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:03:08.993 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:03:15.407 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:03:21.840 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:03:28.182 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:03:34.568 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:03:40.867 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:03:47.128 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:03:53.379 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:03:59.619 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:04:06.115 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:04:12.529 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:04:18.840 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:04:25.286 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:04:31.571 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:04:37.847 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:04:44.264 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:04:50.599 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:04:56.940 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:05:03.220 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:05:09.460 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:05:15.806 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:05:22.048 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:05:28.491 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:05:34.886 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:05:41.211 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:05:47.599 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:05:53.990 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:06:00.358 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:06:06.811 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:06:13.092 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:06:19.344 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:06:25.679 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:06:31.996 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:06:38.359 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:06:44.684 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:06:50.988 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:06:57.402 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:07:03.742 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:07:09.935 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:07:16.314 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:07:22.602 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:07:28.956 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:07:35.298 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:07:41.602 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:07:47.849 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:07:54.088 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:08:00.399 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:08:06.857 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:08:13.167 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:08:19.445 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:08:25.876 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:08:32.259 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:08:38.520 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:08:44.847 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:08:51.149 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:08:57.428 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:09:03.686 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:09:10.039 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:09:16.263 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:09:22.516 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:09:28.784 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:09:35.060 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:09:41.303 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:09:47.651 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:09:53.910 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:10:00.205 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:10:06.467 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:10:12.806 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:12:15.915 -05:00 [INF] Iniciando Monitor de Periféricos Service
+2025-12-01 19:12:16.668 -05:00 [INF] Monitor Worker iniciado
+2025-12-01 19:12:16.968 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-12-01 19:12:16.992 -05:00 [INF] Hosting environment: Production
+2025-12-01 19:12:16.998 -05:00 [INF] Content root path: C:\Users\rrpin\source\repos\ds4\Proyecto Final\MonitorService
+2025-12-01 19:12:17.276 -05:00 [INF] Conexión a base de datos establecida correctamente
+2025-12-01 19:12:17.566 -05:00 [INF] 🔍 USB-A Puerto 1: Estado inicial - CONECTADO
+2025-12-01 19:12:18.316 -05:00 [INF] 🔍 USB-A Puerto 2: Estado inicial - CONECTADO
+2025-12-01 19:12:18.325 -05:00 [INF] 🔍 USB-C Puerto 1: Estado inicial - LIBRE
+2025-12-01 19:12:18.331 -05:00 [INF] 🔍 Puerto HDMI: Estado inicial - LIBRE
+2025-12-01 19:12:18.336 -05:00 [INF] 🔍 Jack Audio: Estado inicial - LIBRE
+2025-12-01 19:12:18.342 -05:00 [INF] 🔍 Lector SD: Estado inicial - LIBRE
+2025-12-01 19:12:19.394 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:12:25.488 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:12:31.668 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:12:31.679 -05:00 [INF] Periférico conectado: Tzumi SoundPlay (USB)
+2025-12-01 19:12:31.847 -05:00 [INF] Periférico conectado: Microsoft Print to PDF (Impresora)
+2025-12-01 19:12:31.861 -05:00 [INF] Periférico conectado: OneNote (Desktop) (Impresora)
+2025-12-01 19:12:31.874 -05:00 [INF] Periférico conectado: Concentrador raíz USB (USB 3.0) (USB)
+2025-12-01 19:12:31.888 -05:00 [INF] Periférico conectado: Serie estándar sobre el vínculo Bluetooth (COM3) (USB)
+2025-12-01 19:12:31.901 -05:00 [INF] Periférico conectado: POCO X3 GT Hands-Free HF (USB)
+2025-12-01 19:12:31.915 -05:00 [INF] Periférico conectado: Servicio de inserción de objeto (USB)
+2025-12-01 19:12:31.928 -05:00 [INF] Periférico conectado: Realtek High Definition Audio (Auriculares)
+2025-12-01 19:12:31.941 -05:00 [INF] Periférico conectado: POCO X3 GT Transporte AVRCP (USB)
+2025-12-01 19:12:31.954 -05:00 [INF] Periférico conectado: Concentrador raíz USB (USB 3.0) (USB)
+2025-12-01 19:12:31.967 -05:00 [INF] Periférico conectado: Servicio de red de área personal (USB)
+2025-12-01 19:12:31.981 -05:00 [INF] Periférico conectado: Monitor PnP genérico (Monitor)
+2025-12-01 19:12:31.994 -05:00 [INF] Periférico conectado: Tzumi SoundPlay Transporte AVRCP (USB)
+2025-12-01 19:12:32.011 -05:00 [INF] Periférico conectado: Enumerador Bluetooth de Microsoft (USB)
+2025-12-01 19:12:32.023 -05:00 [INF] Periférico conectado: Steam Streaming Speakers (Auriculares)
+2025-12-01 19:12:32.036 -05:00 [INF] Periférico conectado: POCO X3 GT (USB)
+2025-12-01 19:12:32.049 -05:00 [INF] Periférico conectado: HP TrueVision HD Camera (USB)
+2025-12-01 19:12:32.062 -05:00 [INF] Periférico conectado: POCO X3 GT A2DP SNK (USB)
+2025-12-01 19:12:32.075 -05:00 [INF] Periférico conectado: Dispositivo compuesto USB (USB)
+2025-12-01 19:12:32.086 -05:00 [INF] Periférico conectado: Servicio NAP de red de área personal (USB)
+2025-12-01 19:12:32.099 -05:00 [INF] Periférico conectado: Serie estándar sobre el vínculo Bluetooth (COM4) (USB)
+2025-12-01 19:12:32.112 -05:00 [INF] Periférico conectado: Servicio de acceso a SIM (USB)
+2025-12-01 19:12:32.124 -05:00 [INF] Periférico conectado: POCO X3 GT Hands-Free HF Audio (USB)
+2025-12-01 19:12:32.136 -05:00 [INF] Periférico conectado: AMD High Definition Audio Device (Auriculares)
+2025-12-01 19:12:32.148 -05:00 [INF] Periférico conectado: Tzumi SoundPlay Hands-Free (USB)
+2025-12-01 19:12:32.160 -05:00 [INF] Periférico conectado: AMD Streaming Audio Device (Auriculares)
+2025-12-01 19:12:32.173 -05:00 [INF] Periférico conectado: Servicio de puerta de enlace de audio de auriculares con micrófono (USB)
+2025-12-01 19:12:32.186 -05:00 [INF] Periférico conectado: Dispositivo periférico Bluetooth (USB)
+2025-12-01 19:12:32.200 -05:00 [INF] Periférico conectado: SMS/MMS (USB)
+2025-12-01 19:12:32.214 -05:00 [INF] Periférico conectado: Tzumi SoundPlay (USB)
+2025-12-01 19:12:32.228 -05:00 [INF] Periférico conectado: Dispositivo periférico Bluetooth (USB)
+2025-12-01 19:12:32.241 -05:00 [INF] Periférico conectado: Steam Streaming Microphone (Auriculares)
+2025-12-01 19:12:32.254 -05:00 [INF] Periférico conectado: Dispositivo periférico Bluetooth (USB)
+2025-12-01 19:12:32.267 -05:00 [INF] Periférico conectado: Tzumi SoundPlay Transporte AVRCP (USB)
+2025-12-01 19:12:32.281 -05:00 [INF] Periférico conectado: Realtek Bluetooth 4.2 Adapter (USB)
+2025-12-01 19:12:32.294 -05:00 [INF] Periférico conectado: Servicio de acceso a la guía telefónica (PSE) (USB)
+2025-12-01 19:12:32.307 -05:00 [INF] Periférico conectado: ELAN Input Device (Mouse)
+2025-12-01 19:12:32.320 -05:00 [INF] Periférico conectado: Bluetooth Device (Personal Area Network) (USB)
+2025-12-01 19:12:32.333 -05:00 [INF] Periférico conectado: POCO X3 GT Transporte AVRCP (USB)
+2025-12-01 19:12:32.347 -05:00 [INF] Periférico conectado: Enumerador de Bluetooth LE de Microsoft (USB)
+2025-12-01 19:12:32.360 -05:00 [INF] Periférico conectado: AMD Audio Device (Auriculares)
+2025-12-01 19:12:32.373 -05:00 [INF] Periférico conectado: Mejorado (101 ó 102 teclas) (Teclado)
+2025-12-01 19:12:32.385 -05:00 [INF] Periférico conectado: Tzumi SoundPlay Hands-Free AG (USB)
+2025-12-01 19:12:32.398 -05:00 [INF] Periférico conectado: Bluetooth Device (RFCOMM Protocol TDI) (USB)
+2025-12-01 19:12:38.500 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:12:44.809 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:12:50.981 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:12:57.197 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:13:03.455 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:13:09.623 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:13:15.751 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:13:22.030 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:13:28.288 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:13:34.497 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:13:40.606 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:13:46.830 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:13:53.078 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:13:59.233 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:14:05.450 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:14:11.611 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:14:17.777 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:14:18.242 -05:00 [INF] Application is shutting down...
+2025-12-01 19:14:18.250 -05:00 [ERR] Error en el ciclo de monitoreo
+System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at MonitorService.MonitorWorker.ExecuteAsync(CancellationToken stoppingToken) in C:\Users\rrpin\source\repos\ds4\Proyecto Final\MonitorService\MonitorWorker.cs:line 50
+2025-12-01 19:18:04.547 -05:00 [INF] Iniciando Monitor de Periféricos Service
+2025-12-01 19:18:05.077 -05:00 [INF] Monitor Worker iniciado
+2025-12-01 19:18:05.366 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-12-01 19:18:05.389 -05:00 [INF] Hosting environment: Production
+2025-12-01 19:18:05.396 -05:00 [INF] Content root path: C:\Users\rrpin\source\repos\ds4\Proyecto Final\MonitorService
+2025-12-01 19:18:05.642 -05:00 [INF] Conexión a base de datos establecida correctamente
+2025-12-01 19:18:05.908 -05:00 [INF] 🔍 USB-A Puerto 1: Estado inicial - CONECTADO
+2025-12-01 19:18:06.106 -05:00 [INF] 🔍 USB-A Puerto 2: Estado inicial - LIBRE
+2025-12-01 19:18:06.114 -05:00 [INF] 🔍 USB-C Puerto 1: Estado inicial - LIBRE
+2025-12-01 19:18:06.119 -05:00 [INF] 🔍 Puerto HDMI: Estado inicial - LIBRE
+2025-12-01 19:18:06.123 -05:00 [INF] 🔍 Jack Audio: Estado inicial - LIBRE
+2025-12-01 19:18:06.128 -05:00 [INF] 🔍 Lector SD: Estado inicial - LIBRE
+2025-12-01 19:18:07.204 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:18:13.513 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:18:19.662 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:18:19.669 -05:00 [INF] Periférico conectado: Tzumi SoundPlay (USB)
+2025-12-01 19:18:19.879 -05:00 [INF] Periférico conectado: Microsoft Print to PDF (Impresora)
+2025-12-01 19:18:19.982 -05:00 [INF] Periférico conectado: OneNote (Desktop) (Impresora)
+2025-12-01 19:18:20.059 -05:00 [INF] Periférico conectado: Concentrador raíz USB (USB 3.0) (USB)
+2025-12-01 19:18:20.106 -05:00 [INF] Periférico conectado: Serie estándar sobre el vínculo Bluetooth (COM3) (USB)
+2025-12-01 19:18:20.136 -05:00 [INF] Periférico conectado: POCO X3 GT Hands-Free HF (USB)
+2025-12-01 19:18:20.156 -05:00 [INF] Periférico conectado: Servicio de inserción de objeto (USB)
+2025-12-01 19:18:20.175 -05:00 [INF] Periférico conectado: Realtek High Definition Audio (Auriculares)
+2025-12-01 19:18:20.207 -05:00 [INF] Periférico conectado: POCO X3 GT Transporte AVRCP (USB)
+2025-12-01 19:18:20.225 -05:00 [INF] Periférico conectado: Concentrador raíz USB (USB 3.0) (USB)
+2025-12-01 19:18:20.243 -05:00 [INF] Periférico conectado: Servicio de red de área personal (USB)
+2025-12-01 19:18:20.261 -05:00 [INF] Periférico conectado: Monitor PnP genérico (Monitor)
+2025-12-01 19:18:20.280 -05:00 [INF] Periférico conectado: Tzumi SoundPlay Transporte AVRCP (USB)
+2025-12-01 19:18:20.298 -05:00 [INF] Periférico conectado: Enumerador Bluetooth de Microsoft (USB)
+2025-12-01 19:18:20.313 -05:00 [INF] Periférico conectado: Steam Streaming Speakers (Auriculares)
+2025-12-01 19:18:20.329 -05:00 [INF] Periférico conectado: POCO X3 GT (USB)
+2025-12-01 19:18:20.348 -05:00 [INF] Periférico conectado: HP TrueVision HD Camera (USB)
+2025-12-01 19:18:20.365 -05:00 [INF] Periférico conectado: POCO X3 GT A2DP SNK (USB)
+2025-12-01 19:18:20.381 -05:00 [INF] Periférico conectado: Dispositivo compuesto USB (USB)
+2025-12-01 19:18:20.399 -05:00 [INF] Periférico conectado: Servicio NAP de red de área personal (USB)
+2025-12-01 19:18:20.417 -05:00 [INF] Periférico conectado: Serie estándar sobre el vínculo Bluetooth (COM4) (USB)
+2025-12-01 19:18:20.435 -05:00 [INF] Periférico conectado: Servicio de acceso a SIM (USB)
+2025-12-01 19:18:20.447 -05:00 [INF] Periférico conectado: POCO X3 GT Hands-Free HF Audio (USB)
+2025-12-01 19:18:20.460 -05:00 [INF] Periférico conectado: AMD High Definition Audio Device (Auriculares)
+2025-12-01 19:18:20.473 -05:00 [INF] Periférico conectado: Tzumi SoundPlay Hands-Free (USB)
+2025-12-01 19:18:20.487 -05:00 [INF] Periférico conectado: AMD Streaming Audio Device (Auriculares)
+2025-12-01 19:18:20.500 -05:00 [INF] Periférico conectado: Servicio de puerta de enlace de audio de auriculares con micrófono (USB)
+2025-12-01 19:18:20.515 -05:00 [INF] Periférico conectado: Dispositivo periférico Bluetooth (USB)
+2025-12-01 19:18:20.531 -05:00 [INF] Periférico conectado: SMS/MMS (USB)
+2025-12-01 19:18:20.545 -05:00 [INF] Periférico conectado: Tzumi SoundPlay (USB)
+2025-12-01 19:18:20.559 -05:00 [INF] Periférico conectado: Dispositivo periférico Bluetooth (USB)
+2025-12-01 19:18:20.573 -05:00 [INF] Periférico conectado: Steam Streaming Microphone (Auriculares)
+2025-12-01 19:18:20.587 -05:00 [INF] Periférico conectado: Dispositivo periférico Bluetooth (USB)
+2025-12-01 19:18:20.598 -05:00 [INF] Periférico conectado: Tzumi SoundPlay Transporte AVRCP (USB)
+2025-12-01 19:18:20.610 -05:00 [INF] Periférico conectado: Realtek Bluetooth 4.2 Adapter (USB)
+2025-12-01 19:18:20.624 -05:00 [INF] Periférico conectado: Servicio de acceso a la guía telefónica (PSE) (USB)
+2025-12-01 19:18:20.636 -05:00 [INF] Periférico conectado: ELAN Input Device (Mouse)
+2025-12-01 19:18:20.655 -05:00 [INF] Periférico conectado: Bluetooth Device (Personal Area Network) (USB)
+2025-12-01 19:18:20.669 -05:00 [INF] Periférico conectado: POCO X3 GT Transporte AVRCP (USB)
+2025-12-01 19:18:20.680 -05:00 [INF] Periférico conectado: Enumerador de Bluetooth LE de Microsoft (USB)
+2025-12-01 19:18:20.694 -05:00 [INF] Periférico conectado: AMD Audio Device (Auriculares)
+2025-12-01 19:18:20.707 -05:00 [INF] Periférico conectado: Mejorado (101 ó 102 teclas) (Teclado)
+2025-12-01 19:18:20.720 -05:00 [INF] Periférico conectado: Tzumi SoundPlay Hands-Free AG (USB)
+2025-12-01 19:18:20.736 -05:00 [INF] Periférico conectado: Bluetooth Device (RFCOMM Protocol TDI) (USB)
+2025-12-01 19:18:26.789 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:18:32.972 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:18:39.223 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:18:45.580 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:18:51.755 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:18:57.968 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:19:04.169 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:19:10.318 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:19:16.528 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:19:22.755 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:19:28.945 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:19:35.137 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:19:41.321 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:19:47.563 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:19:53.787 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:20:00.088 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:20:06.415 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:20:12.607 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:20:18.891 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:20:25.123 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:20:31.351 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:20:37.519 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:20:43.702 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:20:49.809 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:20:56.070 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:21:02.202 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:21:08.501 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:21:14.646 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:21:20.831 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:21:27.075 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:21:33.353 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:21:39.636 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:21:46.010 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:21:52.275 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:23:04.361 -05:00 [INF] Iniciando Monitor de Periféricos Service
+2025-12-01 19:23:04.908 -05:00 [INF] Monitor Worker iniciado
+2025-12-01 19:23:05.171 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-12-01 19:23:05.194 -05:00 [INF] Hosting environment: Production
+2025-12-01 19:23:05.201 -05:00 [INF] Content root path: C:\Users\rrpin\source\repos\ds4\Proyecto Final\MonitorService
+2025-12-01 19:23:05.429 -05:00 [INF] Conexión a base de datos establecida correctamente
+2025-12-01 19:23:05.651 -05:00 [INF] 🔍 USB-A Puerto 1: Estado inicial - LIBRE
+2025-12-01 19:23:05.874 -05:00 [INF] 🔍 USB-A Puerto 2: Estado inicial - LIBRE
+2025-12-01 19:23:05.882 -05:00 [INF] 🔍 USB-C Puerto 1: Estado inicial - LIBRE
+2025-12-01 19:23:05.886 -05:00 [INF] 🔍 Puerto HDMI: Estado inicial - LIBRE
+2025-12-01 19:23:05.891 -05:00 [INF] 🔍 Jack Audio: Estado inicial - LIBRE
+2025-12-01 19:23:05.895 -05:00 [INF] 🔍 Lector SD: Estado inicial - LIBRE
+2025-12-01 19:23:06.897 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:23:12.986 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:23:19.032 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:23:19.037 -05:00 [INF] Periférico conectado: Tzumi SoundPlay (USB)
+2025-12-01 19:23:19.196 -05:00 [INF] Periférico conectado: Microsoft Print to PDF (Impresora)
+2025-12-01 19:23:19.210 -05:00 [INF] Periférico conectado: OneNote (Desktop) (Impresora)
+2025-12-01 19:23:19.223 -05:00 [INF] Periférico conectado: Concentrador raíz USB (USB 3.0) (USB)
+2025-12-01 19:23:19.237 -05:00 [INF] Periférico conectado: Serie estándar sobre el vínculo Bluetooth (COM3) (USB)
+2025-12-01 19:23:19.251 -05:00 [INF] Periférico conectado: POCO X3 GT Hands-Free HF (USB)
+2025-12-01 19:23:19.265 -05:00 [INF] Periférico conectado: Servicio de inserción de objeto (USB)
+2025-12-01 19:23:19.279 -05:00 [INF] Periférico conectado: Realtek High Definition Audio (Auriculares)
+2025-12-01 19:23:19.294 -05:00 [INF] Periférico conectado: POCO X3 GT Transporte AVRCP (USB)
+2025-12-01 19:23:19.307 -05:00 [INF] Periférico conectado: Concentrador raíz USB (USB 3.0) (USB)
+2025-12-01 19:23:19.321 -05:00 [INF] Periférico conectado: Servicio de red de área personal (USB)
+2025-12-01 19:23:19.334 -05:00 [INF] Periférico conectado: Monitor PnP genérico (Monitor)
+2025-12-01 19:23:19.347 -05:00 [INF] Periférico conectado: Tzumi SoundPlay Transporte AVRCP (USB)
+2025-12-01 19:23:19.360 -05:00 [INF] Periférico conectado: Enumerador Bluetooth de Microsoft (USB)
+2025-12-01 19:23:19.373 -05:00 [INF] Periférico conectado: Steam Streaming Speakers (Auriculares)
+2025-12-01 19:23:19.386 -05:00 [INF] Periférico conectado: POCO X3 GT (USB)
+2025-12-01 19:23:19.400 -05:00 [INF] Periférico conectado: HP TrueVision HD Camera (USB)
+2025-12-01 19:23:19.416 -05:00 [INF] Periférico conectado: POCO X3 GT A2DP SNK (USB)
+2025-12-01 19:23:19.429 -05:00 [INF] Periférico conectado: Dispositivo compuesto USB (USB)
+2025-12-01 19:23:19.443 -05:00 [INF] Periférico conectado: Servicio NAP de red de área personal (USB)
+2025-12-01 19:23:19.455 -05:00 [INF] Periférico conectado: Serie estándar sobre el vínculo Bluetooth (COM4) (USB)
+2025-12-01 19:23:19.469 -05:00 [INF] Periférico conectado: Servicio de acceso a SIM (USB)
+2025-12-01 19:23:19.483 -05:00 [INF] Periférico conectado: POCO X3 GT Hands-Free HF Audio (USB)
+2025-12-01 19:23:19.499 -05:00 [INF] Periférico conectado: AMD High Definition Audio Device (Auriculares)
+2025-12-01 19:23:19.516 -05:00 [INF] Periférico conectado: Tzumi SoundPlay Hands-Free (USB)
+2025-12-01 19:23:19.528 -05:00 [INF] Periférico conectado: AMD Streaming Audio Device (Auriculares)
+2025-12-01 19:23:19.540 -05:00 [INF] Periférico conectado: Servicio de puerta de enlace de audio de auriculares con micrófono (USB)
+2025-12-01 19:23:19.553 -05:00 [INF] Periférico conectado: Dispositivo periférico Bluetooth (USB)
+2025-12-01 19:23:19.568 -05:00 [INF] Periférico conectado: SMS/MMS (USB)
+2025-12-01 19:23:19.580 -05:00 [INF] Periférico conectado: Tzumi SoundPlay (USB)
+2025-12-01 19:23:19.593 -05:00 [INF] Periférico conectado: Dispositivo periférico Bluetooth (USB)
+2025-12-01 19:23:19.606 -05:00 [INF] Periférico conectado: Steam Streaming Microphone (Auriculares)
+2025-12-01 19:23:19.618 -05:00 [INF] Periférico conectado: Dispositivo periférico Bluetooth (USB)
+2025-12-01 19:23:19.631 -05:00 [INF] Periférico conectado: Tzumi SoundPlay Transporte AVRCP (USB)
+2025-12-01 19:23:19.644 -05:00 [INF] Periférico conectado: Realtek Bluetooth 4.2 Adapter (USB)
+2025-12-01 19:23:19.656 -05:00 [INF] Periférico conectado: Servicio de acceso a la guía telefónica (PSE) (USB)
+2025-12-01 19:23:19.669 -05:00 [INF] Periférico conectado: ELAN Input Device (Mouse)
+2025-12-01 19:23:19.682 -05:00 [INF] Periférico conectado: Bluetooth Device (Personal Area Network) (USB)
+2025-12-01 19:23:19.695 -05:00 [INF] Periférico conectado: POCO X3 GT Transporte AVRCP (USB)
+2025-12-01 19:23:19.710 -05:00 [INF] Periférico conectado: Enumerador de Bluetooth LE de Microsoft (USB)
+2025-12-01 19:23:19.722 -05:00 [INF] Periférico conectado: AMD Audio Device (Auriculares)
+2025-12-01 19:23:19.734 -05:00 [INF] Periférico conectado: Mejorado (101 ó 102 teclas) (Teclado)
+2025-12-01 19:23:19.748 -05:00 [INF] Periférico conectado: Tzumi SoundPlay Hands-Free AG (USB)
+2025-12-01 19:23:19.764 -05:00 [INF] Periférico conectado: Bluetooth Device (RFCOMM Protocol TDI) (USB)
+2025-12-01 19:23:25.865 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:23:32.092 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:23:38.263 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:23:44.454 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:23:50.592 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:23:56.786 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:24:03.065 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:24:09.356 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:24:15.647 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:24:21.730 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:24:27.928 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:24:34.078 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:24:40.273 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:24:46.515 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:24:52.724 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:24:58.932 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:25:05.087 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:25:10.334 -05:00 [INF] ✅ USB-A Puerto 1: Dispositivo CONECTADO - Dispositivo de almacenamiento USB
+2025-12-01 19:25:10.344 -05:00 [INF] ✅ Lector SD: Dispositivo CONECTADO - KINGSTON (D:)
+2025-12-01 19:25:11.439 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:25:17.648 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:25:23.947 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:25:24.018 -05:00 [INF] Periférico conectado: Kingston DataTraveler 3.0 USB Device (USB)
+2025-12-01 19:25:24.044 -05:00 [INF] Nuevo periférico registrado: Kingston DataTraveler 3.0 USB Device (ID: 47)
+2025-12-01 19:25:24.084 -05:00 [INF] Periférico conectado: Dispositivo de almacenamiento USB (USB)
+2025-12-01 19:25:24.090 -05:00 [INF] Nuevo periférico registrado: Dispositivo de almacenamiento USB (ID: 48)
+2025-12-01 19:25:30.292 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:25:35.529 -05:00 [WRN] ❌ USB-A Puerto 1: Dispositivo DESCONECTADO
+2025-12-01 19:25:35.538 -05:00 [WRN] ❌ Lector SD: Dispositivo DESCONECTADO
+2025-12-01 19:25:36.590 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:25:42.935 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:25:48.210 -05:00 [INF] ✅ USB-A Puerto 1: Dispositivo CONECTADO - Dispositivo de almacenamiento USB
+2025-12-01 19:25:48.234 -05:00 [INF] ✅ Lector SD: Dispositivo CONECTADO - KINGSTON (D:)
+2025-12-01 19:25:49.277 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:25:55.501 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:26:01.719 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:26:08.016 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:26:14.663 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:26:20.986 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:26:27.260 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:26:33.612 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:26:40.064 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:26:46.314 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:26:51.555 -05:00 [WRN] ❌ USB-A Puerto 1: Dispositivo DESCONECTADO
+2025-12-01 19:26:51.581 -05:00 [WRN] ❌ Lector SD: Dispositivo DESCONECTADO
+2025-12-01 19:26:52.595 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:26:58.715 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:27:05.055 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:27:11.335 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:27:17.615 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:27:23.906 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:27:30.264 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:27:36.480 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:27:42.704 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:27:48.976 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:27:55.216 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:28:01.346 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:28:07.571 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:28:13.865 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:28:20.115 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:28:26.371 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:28:32.559 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:28:38.754 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:28:45.044 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:28:51.380 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:28:57.619 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:29:03.830 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:29:09.938 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:29:16.522 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:29:22.882 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:29:29.160 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:29:35.497 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:29:41.693 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:29:47.846 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:29:54.044 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:30:00.428 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:30:06.694 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:30:12.727 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:30:19.022 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:30:25.439 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:30:31.759 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:30:37.974 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:30:44.189 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:30:50.426 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:30:56.632 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:31:02.878 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:31:09.079 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:31:15.303 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:31:21.565 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:31:27.862 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:31:34.185 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:31:40.364 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:31:46.570 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:31:52.855 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:31:59.164 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:32:05.399 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:32:11.707 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:32:17.993 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:32:24.236 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:32:30.513 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:32:36.765 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:32:43.040 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:32:49.272 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:32:55.557 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:33:01.793 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:33:08.022 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:33:14.280 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:33:20.527 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:33:26.869 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:33:33.092 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:33:39.405 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:33:45.639 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:33:51.790 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:33:58.013 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:34:04.262 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:34:10.496 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:34:16.749 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:34:22.970 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:34:29.216 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:34:35.418 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:34:41.587 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:34:47.763 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:34:53.974 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:35:00.189 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:35:06.380 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:35:12.638 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:35:18.852 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:35:24.993 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:35:31.285 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:35:37.637 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:35:43.862 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:35:50.043 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:35:56.259 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:36:02.432 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:36:08.659 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:36:14.972 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:36:21.236 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:36:27.450 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:36:33.657 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:36:39.844 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:36:46.076 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:36:52.267 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:36:58.637 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:37:04.851 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:37:11.109 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:37:17.409 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:37:23.695 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:37:30.016 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:37:36.336 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:37:42.453 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:37:48.810 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:37:55.014 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:38:01.250 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:38:07.334 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:38:13.673 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:38:19.920 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:38:26.116 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:38:32.369 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:38:38.490 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:38:44.697 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:38:50.796 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:38:57.111 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:39:03.306 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:39:09.510 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:39:16.040 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:39:22.343 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:39:28.503 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:39:34.633 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:39:40.812 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:39:46.993 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:39:53.170 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:39:59.362 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:40:05.527 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:40:11.678 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:40:17.830 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:40:24.039 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:40:30.293 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:40:35.574 -05:00 [INF] ✅ USB-A Puerto 1: Dispositivo CONECTADO - Dispositivo de almacenamiento USB
+2025-12-01 19:40:36.888 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:40:42.127 -05:00 [INF] ✅ Lector SD: Dispositivo CONECTADO - KINGSTON (D:)
+2025-12-01 19:40:43.284 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:40:49.504 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:40:55.743 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:41:02.004 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:41:08.385 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:41:14.723 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:41:21.218 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:41:27.504 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:41:34.020 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:41:40.336 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:41:46.507 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:41:52.734 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:41:58.966 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:42:05.158 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:42:11.515 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:42:17.685 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:42:23.973 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:42:30.289 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:42:36.723 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:42:43.005 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:42:49.394 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:42:55.571 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:43:01.739 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:43:07.999 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:43:14.151 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:43:20.367 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:43:26.633 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:43:32.934 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:43:39.140 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:43:45.340 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:43:51.522 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:43:57.755 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:44:03.929 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:44:10.199 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:44:16.443 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:44:22.613 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:44:28.856 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:44:35.069 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:44:41.322 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:44:47.514 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:44:53.630 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:44:59.947 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:45:06.360 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:45:12.516 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:45:18.783 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:45:25.055 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:45:31.297 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:45:37.545 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:45:43.995 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:45:50.333 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:45:56.596 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:46:02.814 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:46:09.091 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:46:15.543 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:46:21.810 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:46:28.065 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:46:34.304 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:46:40.529 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:46:46.720 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:46:52.957 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:46:59.239 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:47:05.637 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:47:11.853 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:47:18.018 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:47:24.196 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:47:30.415 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:47:36.605 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:47:42.916 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:47:49.180 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:47:55.463 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:48:01.733 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:48:07.919 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:48:14.138 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:48:20.376 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:48:26.594 -05:00 [INF] Escaneados 46 periféricos
+2025-12-01 19:48:31.814 -05:00 [WRN] ❌ USB-A Puerto 1: Dispositivo DESCONECTADO
+2025-12-01 19:48:31.824 -05:00 [WRN] ❌ Lector SD: Dispositivo DESCONECTADO
+2025-12-01 19:48:32.768 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:48:38.971 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:48:45.188 -05:00 [INF] Escaneados 44 periféricos
+2025-12-01 19:48:46.364 -05:00 [INF] Application is shutting down...
+2025-12-01 19:48:46.372 -05:00 [ERR] Error en el ciclo de monitoreo
+System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at MonitorService.MonitorWorker.ExecuteAsync(CancellationToken stoppingToken) in C:\Users\rrpin\source\repos\ds4\Proyecto Final\MonitorService\MonitorWorker.cs:line 50

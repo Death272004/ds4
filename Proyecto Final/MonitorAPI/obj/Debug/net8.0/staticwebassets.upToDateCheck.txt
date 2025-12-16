@@ -1,0 +1,6 @@
+wwwroot\css\styles.css
+wwwroot\ICONOS.md
+wwwroot\index.html
+wwwroot\js\api.js
+wwwroot\js\app.js
+wwwroot\js\config.js

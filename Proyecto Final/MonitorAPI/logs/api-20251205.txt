@@ -1,0 +1,6 @@
+2025-12-05 14:59:26.735 -05:00 [INF] API iniciada correctamente
+2025-12-05 14:59:27.018 -05:00 [INF] Now listening on: http://localhost:5000
+2025-12-05 14:59:27.028 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-12-05 14:59:27.031 -05:00 [INF] Hosting environment: Production
+2025-12-05 14:59:27.033 -05:00 [INF] Content root path: C:\Users\rrpin\source\repos\ds4\Proyecto Final\MonitorAPI
+2025-12-05 15:00:39.467 -05:00 [INF] Application is shutting down...

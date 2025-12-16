@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "MonitorService\\MonitorService.csproj",
+        "Action": "StartWithoutDebugging"
+      },
+      {
+        "Path": "MonitorAPI\\MonitorAPI.csproj",
+        "Action": "StartWithoutDebugging"
+      }
+    ]
+  }
+]

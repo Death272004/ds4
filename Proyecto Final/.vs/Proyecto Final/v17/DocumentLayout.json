@@ -1,0 +1,413 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2A71D24-8C3E-4D9F-A5B6-3F8E9D7C1A2B}|MonitorAPI\\MonitorAPI.csproj|c:\\users\\rrpin\\source\\repos\\ds4\\proyecto final\\monitorapi\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2A71D24-8C3E-4D9F-A5B6-3F8E9D7C1A2B}|MonitorAPI\\MonitorAPI.csproj|solutionrelative:monitorapi\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2A71D24-8C3E-4D9F-A5B6-3F8E9D7C1A2B}|MonitorAPI\\MonitorAPI.csproj|c:\\users\\rrpin\\source\\repos\\ds4\\proyecto final\\monitorapi\\controllers\\portscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2A71D24-8C3E-4D9F-A5B6-3F8E9D7C1A2B}|MonitorAPI\\MonitorAPI.csproj|solutionrelative:monitorapi\\controllers\\portscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2A71D24-8C3E-4D9F-A5B6-3F8E9D7C1A2B}|MonitorAPI\\MonitorAPI.csproj|c:\\users\\rrpin\\source\\repos\\ds4\\proyecto final\\monitorapi\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B2A71D24-8C3E-4D9F-A5B6-3F8E9D7C1A2B}|MonitorAPI\\MonitorAPI.csproj|solutionrelative:monitorapi\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2A71D24-8C3E-4D9F-A5B6-3F8E9D7C1A2B}|MonitorAPI\\MonitorAPI.csproj|c:\\users\\rrpin\\source\\repos\\ds4\\proyecto final\\monitorapi\\wwwroot\\js\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B2A71D24-8C3E-4D9F-A5B6-3F8E9D7C1A2B}|MonitorAPI\\MonitorAPI.csproj|solutionrelative:monitorapi\\wwwroot\\js\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2A71D24-8C3E-4D9F-A5B6-3F8E9D7C1A2B}|MonitorAPI\\MonitorAPI.csproj|c:\\users\\rrpin\\source\\repos\\ds4\\proyecto final\\monitorapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B2A71D24-8C3E-4D9F-A5B6-3F8E9D7C1A2B}|MonitorAPI\\MonitorAPI.csproj|solutionrelative:monitorapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2A71D24-8C3E-4D9F-A5B6-3F8E9D7C1A2B}|MonitorAPI\\MonitorAPI.csproj|c:\\users\\rrpin\\source\\repos\\ds4\\proyecto final\\monitorapi\\controllers\\peripheralscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2A71D24-8C3E-4D9F-A5B6-3F8E9D7C1A2B}|MonitorAPI\\MonitorAPI.csproj|solutionrelative:monitorapi\\controllers\\peripheralscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2A71D24-8C3E-4D9F-A5B6-3F8E9D7C1A2B}|MonitorAPI\\MonitorAPI.csproj|c:\\users\\rrpin\\source\\repos\\ds4\\proyecto final\\monitorapi\\models\\dtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2A71D24-8C3E-4D9F-A5B6-3F8E9D7C1A2B}|MonitorAPI\\MonitorAPI.csproj|solutionrelative:monitorapi\\models\\dtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2A71D24-8C3E-4D9F-A5B6-3F8E9D7C1A2B}|MonitorAPI\\MonitorAPI.csproj|c:\\users\\rrpin\\source\\repos\\ds4\\proyecto final\\monitorapi\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2A71D24-8C3E-4D9F-A5B6-3F8E9D7C1A2B}|MonitorAPI\\MonitorAPI.csproj|solutionrelative:monitorapi\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2A71D24-8C3E-4D9F-A5B6-3F8E9D7C1A2B}|MonitorAPI\\MonitorAPI.csproj|c:\\users\\rrpin\\source\\repos\\ds4\\proyecto final\\monitorapi\\services\\portservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2A71D24-8C3E-4D9F-A5B6-3F8E9D7C1A2B}|MonitorAPI\\MonitorAPI.csproj|solutionrelative:monitorapi\\services\\portservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2A71D24-8C3E-4D9F-A5B6-3F8E9D7C1A2B}|MonitorAPI\\MonitorAPI.csproj|c:\\users\\rrpin\\source\\repos\\ds4\\proyecto final\\monitorapi\\services\\peripheralservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2A71D24-8C3E-4D9F-A5B6-3F8E9D7C1A2B}|MonitorAPI\\MonitorAPI.csproj|solutionrelative:monitorapi\\services\\peripheralservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2A71D24-8C3E-4D9F-A5B6-3F8E9D7C1A2B}|MonitorAPI\\MonitorAPI.csproj|c:\\users\\rrpin\\source\\repos\\ds4\\proyecto final\\monitorapi\\services\\ireportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2A71D24-8C3E-4D9F-A5B6-3F8E9D7C1A2B}|MonitorAPI\\MonitorAPI.csproj|solutionrelative:monitorapi\\services\\ireportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2A71D24-8C3E-4D9F-A5B6-3F8E9D7C1A2B}|MonitorAPI\\MonitorAPI.csproj|c:\\users\\rrpin\\source\\repos\\ds4\\proyecto final\\monitorapi\\services\\iportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2A71D24-8C3E-4D9F-A5B6-3F8E9D7C1A2B}|MonitorAPI\\MonitorAPI.csproj|solutionrelative:monitorapi\\services\\iportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2A71D24-8C3E-4D9F-A5B6-3F8E9D7C1A2B}|MonitorAPI\\MonitorAPI.csproj|c:\\users\\rrpin\\source\\repos\\ds4\\proyecto final\\monitorapi\\services\\iperipheralservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2A71D24-8C3E-4D9F-A5B6-3F8E9D7C1A2B}|MonitorAPI\\MonitorAPI.csproj|solutionrelative:monitorapi\\services\\iperipheralservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2A71D24-8C3E-4D9F-A5B6-3F8E9D7C1A2B}|MonitorAPI\\MonitorAPI.csproj|c:\\users\\rrpin\\source\\repos\\ds4\\proyecto final\\monitorapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2A71D24-8C3E-4D9F-A5B6-3F8E9D7C1A2B}|MonitorAPI\\MonitorAPI.csproj|solutionrelative:monitorapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E08522-7411-5F1E-EBDE-F397FEF570D3}|MonitorService\\MonitorService.csproj|c:\\users\\rrpin\\source\\repos\\ds4\\proyecto final\\monitorservice\\logs\\monitor-service20251205.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{89E08522-7411-5F1E-EBDE-F397FEF570D3}|MonitorService\\MonitorService.csproj|solutionrelative:monitorservice\\logs\\monitor-service20251205.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E08522-7411-5F1E-EBDE-F397FEF570D3}|MonitorService\\MonitorService.csproj|c:\\users\\rrpin\\source\\repos\\ds4\\proyecto final\\monitorservice\\models\\peripheralinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E08522-7411-5F1E-EBDE-F397FEF570D3}|MonitorService\\MonitorService.csproj|solutionrelative:monitorservice\\models\\peripheralinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E08522-7411-5F1E-EBDE-F397FEF570D3}|MonitorService\\MonitorService.csproj|c:\\users\\rrpin\\source\\repos\\ds4\\proyecto final\\monitorservice\\services\\iperipheralmonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E08522-7411-5F1E-EBDE-F397FEF570D3}|MonitorService\\MonitorService.csproj|solutionrelative:monitorservice\\services\\iperipheralmonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E08522-7411-5F1E-EBDE-F397FEF570D3}|MonitorService\\MonitorService.csproj|c:\\users\\rrpin\\source\\repos\\ds4\\proyecto final\\monitorservice\\services\\peripheralmonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E08522-7411-5F1E-EBDE-F397FEF570D3}|MonitorService\\MonitorService.csproj|solutionrelative:monitorservice\\services\\peripheralmonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E08522-7411-5F1E-EBDE-F397FEF570D3}|MonitorService\\MonitorService.csproj|c:\\users\\rrpin\\source\\repos\\ds4\\proyecto final\\monitorservice\\services\\idatabaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E08522-7411-5F1E-EBDE-F397FEF570D3}|MonitorService\\MonitorService.csproj|solutionrelative:monitorservice\\services\\idatabaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E08522-7411-5F1E-EBDE-F397FEF570D3}|MonitorService\\MonitorService.csproj|c:\\users\\rrpin\\source\\repos\\ds4\\proyecto final\\monitorservice\\services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E08522-7411-5F1E-EBDE-F397FEF570D3}|MonitorService\\MonitorService.csproj|solutionrelative:monitorservice\\services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E08522-7411-5F1E-EBDE-F397FEF570D3}|MonitorService\\MonitorService.csproj|c:\\users\\rrpin\\source\\repos\\ds4\\proyecto final\\monitorservice\\monitorworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E08522-7411-5F1E-EBDE-F397FEF570D3}|MonitorService\\MonitorService.csproj|solutionrelative:monitorservice\\monitorworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E08522-7411-5F1E-EBDE-F397FEF570D3}|MonitorService\\MonitorService.csproj|c:\\users\\rrpin\\source\\repos\\ds4\\proyecto final\\monitorservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E08522-7411-5F1E-EBDE-F397FEF570D3}|MonitorService\\MonitorService.csproj|solutionrelative:monitorservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto Final\\VerificarBD.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VerificarBD.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto Final\\MonitorAPI\\wwwroot\\css\\styles.css",
+              "RelativeDocumentMoniker": "MonitorAPI\\wwwroot\\css\\styles.css",
+              "ToolTip": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto Final\\MonitorAPI\\wwwroot\\css\\styles.css",
+              "RelativeToolTip": "MonitorAPI\\wwwroot\\css\\styles.css",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAAABgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-15T21:22:41.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "app.js",
+              "DocumentMoniker": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto Final\\MonitorAPI\\wwwroot\\js\\app.js",
+              "RelativeDocumentMoniker": "MonitorAPI\\wwwroot\\js\\app.js",
+              "ToolTip": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto Final\\MonitorAPI\\wwwroot\\js\\app.js",
+              "RelativeToolTip": "MonitorAPI\\wwwroot\\js\\app.js",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-15T21:22:22.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto Final\\MonitorAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MonitorAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto Final\\MonitorAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MonitorAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-15T21:22:02.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReportsController.cs",
+              "DocumentMoniker": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto Final\\MonitorAPI\\Controllers\\ReportsController.cs",
+              "RelativeDocumentMoniker": "MonitorAPI\\Controllers\\ReportsController.cs",
+              "ToolTip": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto Final\\MonitorAPI\\Controllers\\ReportsController.cs",
+              "RelativeToolTip": "MonitorAPI\\Controllers\\ReportsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T21:20:57.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PortsController.cs",
+              "DocumentMoniker": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto Final\\MonitorAPI\\Controllers\\PortsController.cs",
+              "RelativeDocumentMoniker": "MonitorAPI\\Controllers\\PortsController.cs",
+              "ToolTip": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto Final\\MonitorAPI\\Controllers\\PortsController.cs",
+              "RelativeToolTip": "MonitorAPI\\Controllers\\PortsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T21:20:51.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PeripheralsController.cs",
+              "DocumentMoniker": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto Final\\MonitorAPI\\Controllers\\PeripheralsController.cs",
+              "RelativeDocumentMoniker": "MonitorAPI\\Controllers\\PeripheralsController.cs",
+              "ToolTip": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto Final\\MonitorAPI\\Controllers\\PeripheralsController.cs",
+              "RelativeToolTip": "MonitorAPI\\Controllers\\PeripheralsController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T21:20:40.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DTOs.cs",
+              "DocumentMoniker": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto Final\\MonitorAPI\\Models\\DTOs.cs",
+              "RelativeDocumentMoniker": "MonitorAPI\\Models\\DTOs.cs",
+              "ToolTip": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto Final\\MonitorAPI\\Models\\DTOs.cs",
+              "RelativeToolTip": "MonitorAPI\\Models\\DTOs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T21:19:50.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReportService.cs",
+              "DocumentMoniker": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto Final\\MonitorAPI\\Services\\ReportService.cs",
+              "RelativeDocumentMoniker": "MonitorAPI\\Services\\ReportService.cs",
+              "ToolTip": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto Final\\MonitorAPI\\Services\\ReportService.cs",
+              "RelativeToolTip": "MonitorAPI\\Services\\ReportService.cs",
+              "ViewState": "AgIAAFIBAAAAAAAAAAAAAKQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T21:15:55.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PortService.cs",
+              "DocumentMoniker": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto Final\\MonitorAPI\\Services\\PortService.cs",
+              "RelativeDocumentMoniker": "MonitorAPI\\Services\\PortService.cs",
+              "ToolTip": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto Final\\MonitorAPI\\Services\\PortService.cs",
+              "RelativeToolTip": "MonitorAPI\\Services\\PortService.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T21:15:07.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PeripheralService.cs",
+              "DocumentMoniker": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto Final\\MonitorAPI\\Services\\PeripheralService.cs",
+              "RelativeDocumentMoniker": "MonitorAPI\\Services\\PeripheralService.cs",
+              "ToolTip": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto Final\\MonitorAPI\\Services\\PeripheralService.cs",
+              "RelativeToolTip": "MonitorAPI\\Services\\PeripheralService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T21:13:05.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IReportService.cs",
+              "DocumentMoniker": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto Final\\MonitorAPI\\Services\\IReportService.cs",
+              "RelativeDocumentMoniker": "MonitorAPI\\Services\\IReportService.cs",
+              "ToolTip": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto Final\\MonitorAPI\\Services\\IReportService.cs",
+              "RelativeToolTip": "MonitorAPI\\Services\\IReportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T21:13:03.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IPortService.cs",
+              "DocumentMoniker": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto Final\\MonitorAPI\\Services\\IPortService.cs",
+              "RelativeDocumentMoniker": "MonitorAPI\\Services\\IPortService.cs",
+              "ToolTip": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto Final\\MonitorAPI\\Services\\IPortService.cs",
+              "RelativeToolTip": "MonitorAPI\\Services\\IPortService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T21:13:00.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IPeripheralService.cs",
+              "DocumentMoniker": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto Final\\MonitorAPI\\Services\\IPeripheralService.cs",
+              "RelativeDocumentMoniker": "MonitorAPI\\Services\\IPeripheralService.cs",
+              "ToolTip": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto Final\\MonitorAPI\\Services\\IPeripheralService.cs",
+              "RelativeToolTip": "MonitorAPI\\Services\\IPeripheralService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T21:12:56.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto Final\\MonitorAPI\\Program.cs",
+              "RelativeDocumentMoniker": "MonitorAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto Final\\MonitorAPI\\Program.cs",
+              "RelativeToolTip": "MonitorAPI\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T21:12:02.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "monitor-service20251205.txt",
+              "DocumentMoniker": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto Final\\MonitorService\\logs\\monitor-service20251205.txt",
+              "RelativeDocumentMoniker": "MonitorService\\logs\\monitor-service20251205.txt",
+              "ToolTip": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto Final\\MonitorService\\logs\\monitor-service20251205.txt",
+              "RelativeToolTip": "MonitorService\\logs\\monitor-service20251205.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-12-15T21:11:46.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PeripheralInfo.cs",
+              "DocumentMoniker": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto Final\\MonitorService\\Models\\PeripheralInfo.cs",
+              "RelativeDocumentMoniker": "MonitorService\\Models\\PeripheralInfo.cs",
+              "ToolTip": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto Final\\MonitorService\\Models\\PeripheralInfo.cs",
+              "RelativeToolTip": "MonitorService\\Models\\PeripheralInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T21:09:42.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PeripheralMonitor.cs",
+              "DocumentMoniker": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto Final\\MonitorService\\Services\\PeripheralMonitor.cs",
+              "RelativeDocumentMoniker": "MonitorService\\Services\\PeripheralMonitor.cs",
+              "ToolTip": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto Final\\MonitorService\\Services\\PeripheralMonitor.cs",
+              "RelativeToolTip": "MonitorService\\Services\\PeripheralMonitor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T21:07:04.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IPeripheralMonitor.cs",
+              "DocumentMoniker": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto Final\\MonitorService\\Services\\IPeripheralMonitor.cs",
+              "RelativeDocumentMoniker": "MonitorService\\Services\\IPeripheralMonitor.cs",
+              "ToolTip": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto Final\\MonitorService\\Services\\IPeripheralMonitor.cs",
+              "RelativeToolTip": "MonitorService\\Services\\IPeripheralMonitor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T21:07:00.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IDatabaseService.cs",
+              "DocumentMoniker": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto Final\\MonitorService\\Services\\IDatabaseService.cs",
+              "RelativeDocumentMoniker": "MonitorService\\Services\\IDatabaseService.cs",
+              "ToolTip": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto Final\\MonitorService\\Services\\IDatabaseService.cs",
+              "RelativeToolTip": "MonitorService\\Services\\IDatabaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T21:06:52.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MonitorWorker.cs",
+              "DocumentMoniker": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto Final\\MonitorService\\MonitorWorker.cs",
+              "RelativeDocumentMoniker": "MonitorService\\MonitorWorker.cs",
+              "ToolTip": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto Final\\MonitorService\\MonitorWorker.cs",
+              "RelativeToolTip": "MonitorService\\MonitorWorker.cs",
+              "ViewState": "AgIAALMAAAAAAAAAAAAuwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T21:03:44.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto Final\\MonitorService\\Program.cs",
+              "RelativeDocumentMoniker": "MonitorService\\Program.cs",
+              "ToolTip": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto Final\\MonitorService\\Program.cs",
+              "RelativeToolTip": "MonitorService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T21:02:27.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DatabaseService.cs",
+              "DocumentMoniker": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto Final\\MonitorService\\Services\\DatabaseService.cs",
+              "RelativeDocumentMoniker": "MonitorService\\Services\\DatabaseService.cs",
+              "ToolTip": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto Final\\MonitorService\\Services\\DatabaseService.cs",
+              "RelativeToolTip": "MonitorService\\Services\\DatabaseService.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAIwCEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T18:11:02.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "VerificarBD.sql",
+              "DocumentMoniker": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto Final\\VerificarBD.sql",
+              "RelativeDocumentMoniker": "VerificarBD.sql",
+              "ToolTip": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto Final\\VerificarBD.sql",
+              "RelativeToolTip": "VerificarBD.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-12-05T20:51:26.796Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

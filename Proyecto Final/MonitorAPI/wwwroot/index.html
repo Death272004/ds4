@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Monitor de Puertos Físicos - Dashboard</title>
+    <link rel="stylesheet" href="css/styles.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    />
+  </head>
+  <body>
+    <div class="container">
+      <!-- Header -->
+      <header class="header">
+        <div class="header-content">
+          <h1><i class="fas fa-plug"></i> Monitor de Puertos Físicos</h1>
+          <div class="header-stats">
+            <div class="stat-card">
+              <i class="fas fa-plug"></i>
+              <div>
+                <span class="stat-value" id="totalDevices">0</span>
+                <span class="stat-label">Total</span>
+              </div>
+            </div>
+            <div class="stat-card active">
+              <i class="fas fa-check-circle"></i>
+              <div>
+                <span class="stat-value" id="activeDevices">0</span>
+                <span class="stat-label">Activos</span>
+              </div>
+            </div>
+            <div class="stat-card inactive">
+              <i class="fas fa-times-circle"></i>
+              <div>
+                <span class="stat-value" id="inactiveDevices">0</span>
+                <span class="stat-label">Inactivos</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </header>
+
+      <!-- Main Content -->
+      <main class="main-content">
+        <!-- Physical Ports Grid -->
+        <section class="ports-section">
+          <div class="section-header">
+            <h2><i class="fas fa-plug-circle-bolt"></i> Estado de Puertos Físicos</h2>
+            <div class="header-actions">
+              <button class="btn-reports" onclick="openReportsModal()">
+                <i class="fas fa-file-chart-line"></i> Reportes
+              </button>
+              <button class="btn-refresh" onclick="refreshPorts()">
+                <i class="fas fa-sync-alt"></i> Actualizar
+              </button>
+            </div>
+          </div>
+
+          <div class="ports-grid" id="portsGrid">
+            <!-- Los puertos se cargarán dinámicamente -->
+            <div class="loading">
+              <i class="fas fa-spinner fa-spin"></i>
+              <p>Cargando puertos...</p>
+            </div>
+          </div>
+        </section>
+      </main>
+    </div>
+
+    <!-- Modal para reportes -->
+    <div id="reportsModal" class="modal">
+      <div class="modal-content modal-reports">
+        <span class="modal-close" onclick="closeReportsModal()">&times;</span>
+        <h2><i class="fas fa-file-excel"></i> Reportes en Excel</h2>
+        <p class="modal-subtitle">Descarga reportes del sistema en formato Excel (.xlsx)</p>
+        
+        <div class="reports-grid" style="grid-template-columns: 1fr; max-width: 400px; margin: 0 auto;">
+          <div id="fullReportCard" class="report-card" style="cursor: pointer;">
+            <i class="fas fa-file-excel" style="font-size: 3rem; color: #10b981;"></i>
+            <h3>Reporte Completo</h3>
+            <p>Exportar toda la información del sistema en formato Excel</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal para detalles del periférico -->
+    <div id="peripheralModal" class="modal">
+      <div class="modal-content">
+        <span class="modal-close" onclick="closeModal()">&times;</span>
+        <div id="modalBody">
+          <!-- Contenido dinámico -->
+        </div>
+      </div>
+    </div>
+
+    <script src="js/config.js"></script>
+    <script src="js/api.js"></script>
+    <script src="js/app.js"></script>
+  </body>
+</html>
+    <script src="js/config.js"></script>
+    <script src="js/api.js"></script>
+    <script src="js/app.js"></script>
+  </body>
+</html>

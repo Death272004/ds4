@@ -1,0 +1,691 @@
+2025-12-15 12:53:05.408 -05:00 [INF] Iniciando Monitor de Periféricos Service
+2025-12-15 12:53:05.842 -05:00 [INF] Monitor Worker iniciado
+2025-12-15 12:53:06.199 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-12-15 12:53:06.209 -05:00 [INF] Hosting environment: Production
+2025-12-15 12:53:06.221 -05:00 [INF] Content root path: C:\Users\rrpin\source\repos\ds4\Proyecto Final\MonitorService
+2025-12-15 12:53:06.370 -05:00 [INF] Conexión a base de datos establecida correctamente
+2025-12-15 12:53:06.836 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 12:53:06.840 -05:00 [INF] 🔍 USB-A Puerto 1: Estado inicial - LIBRE
+2025-12-15 12:53:07.536 -05:00 [INF] 🔍 USB-A Puerto 2: Estado inicial - LIBRE
+2025-12-15 12:53:07.542 -05:00 [INF] 🔍 USB-C Puerto 1: Estado inicial - LIBRE
+2025-12-15 12:53:07.546 -05:00 [INF] 🔍 Puerto HDMI: Estado inicial - LIBRE
+2025-12-15 12:53:07.549 -05:00 [INF] 🔍 Jack Audio: Estado inicial - LIBRE
+2025-12-15 12:53:07.553 -05:00 [INF] 🔍 Lector SD: Estado inicial - LIBRE
+2025-12-15 12:53:07.556 -05:00 [INF] 🔍 Puerto Carga: Estado inicial - CONECTADO
+2025-12-15 12:53:08.403 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 12:53:13.681 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 12:53:14.130 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 12:53:19.382 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 12:53:19.838 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 12:53:19.842 -05:00 [INF] Periférico conectado: Tzumi SoundPlay (USB)
+2025-12-15 12:53:19.949 -05:00 [INF] Periférico conectado: Microsoft Print to PDF (Impresora)
+2025-12-15 12:53:19.975 -05:00 [INF] Periférico conectado: OneNote (Desktop) (Impresora)
+2025-12-15 12:53:19.997 -05:00 [INF] Periférico conectado: Concentrador raíz USB (USB 3.0) (USB)
+2025-12-15 12:53:20.021 -05:00 [INF] Periférico conectado: POCO X3 GT Hands-Free HF (USB)
+2025-12-15 12:53:20.042 -05:00 [INF] Periférico conectado: Servicio de inserción de objeto (USB)
+2025-12-15 12:53:20.053 -05:00 [INF] Periférico conectado: Realtek High Definition Audio (Auriculares)
+2025-12-15 12:53:20.059 -05:00 [INF] Periférico conectado: POCO X3 GT Transporte AVRCP (USB)
+2025-12-15 12:53:20.065 -05:00 [INF] Periférico conectado: Concentrador raíz USB (USB 3.0) (USB)
+2025-12-15 12:53:20.072 -05:00 [INF] Periférico conectado: Servicio de red de área personal (USB)
+2025-12-15 12:53:20.077 -05:00 [INF] Periférico conectado: Monitor PnP genérico (Monitor)
+2025-12-15 12:53:20.082 -05:00 [INF] Periférico conectado: Tzumi SoundPlay Transporte AVRCP (USB)
+2025-12-15 12:53:20.089 -05:00 [INF] Periférico conectado: Enumerador Bluetooth de Microsoft (USB)
+2025-12-15 12:53:20.094 -05:00 [INF] Periférico conectado: Steam Streaming Speakers (Auriculares)
+2025-12-15 12:53:20.099 -05:00 [INF] Periférico conectado: POCO X3 GT (USB)
+2025-12-15 12:53:20.105 -05:00 [INF] Periférico conectado: HP TrueVision HD Camera (USB)
+2025-12-15 12:53:20.111 -05:00 [INF] Periférico conectado: POCO X3 GT A2DP SNK (USB)
+2025-12-15 12:53:20.117 -05:00 [INF] Periférico conectado: Dispositivo compuesto USB (USB)
+2025-12-15 12:53:20.124 -05:00 [INF] Periférico conectado: Servicio NAP de red de área personal (USB)
+2025-12-15 12:53:20.130 -05:00 [INF] Periférico conectado: Serie estándar sobre el vínculo Bluetooth (COM3) (USB)
+2025-12-15 12:53:20.138 -05:00 [INF] Periférico conectado: Auriculares (Tzumi SoundPlay) (USB)
+2025-12-15 12:53:20.145 -05:00 [INF] Periférico conectado: Servicio de acceso a SIM (USB)
+2025-12-15 12:53:20.153 -05:00 [INF] Periférico conectado: POCO X3 GT Hands-Free HF Audio (USB)
+2025-12-15 12:53:20.159 -05:00 [INF] Periférico conectado: AMD High Definition Audio Device (Auriculares)
+2025-12-15 12:53:20.165 -05:00 [INF] Periférico conectado: AMD Streaming Audio Device (Auriculares)
+2025-12-15 12:53:20.173 -05:00 [INF] Periférico conectado: Servicio de puerta de enlace de audio de auriculares con micrófono (USB)
+2025-12-15 12:53:20.181 -05:00 [INF] Periférico conectado: Dispositivo periférico Bluetooth (USB)
+2025-12-15 12:53:20.189 -05:00 [INF] Periférico conectado: SMS/MMS (USB)
+2025-12-15 12:53:20.198 -05:00 [INF] Periférico conectado: Tzumi SoundPlay (USB)
+2025-12-15 12:53:20.205 -05:00 [INF] Periférico conectado: Dispositivo periférico Bluetooth (USB)
+2025-12-15 12:53:20.212 -05:00 [INF] Periférico conectado: Steam Streaming Microphone (Auriculares)
+2025-12-15 12:53:20.219 -05:00 [INF] Periférico conectado: Dispositivo periférico Bluetooth (USB)
+2025-12-15 12:53:20.225 -05:00 [INF] Periférico conectado: Tzumi SoundPlay Transporte AVRCP (USB)
+2025-12-15 12:53:20.231 -05:00 [INF] Periférico conectado: Realtek Bluetooth 4.2 Adapter (USB)
+2025-12-15 12:53:20.238 -05:00 [INF] Periférico conectado: Servicio de acceso a la guía telefónica (PSE) (USB)
+2025-12-15 12:53:20.244 -05:00 [INF] Periférico conectado: Auriculares con micrófono (Tzumi SoundPlay Hands-Free) (USB)
+2025-12-15 12:53:20.251 -05:00 [INF] Periférico conectado: ELAN Input Device (Mouse)
+2025-12-15 12:53:20.258 -05:00 [INF] Periférico conectado: Serie estándar sobre el vínculo Bluetooth (COM4) (USB)
+2025-12-15 12:53:20.265 -05:00 [INF] Periférico conectado: Bluetooth Device (Personal Area Network) (USB)
+2025-12-15 12:53:20.271 -05:00 [INF] Periférico conectado: POCO X3 GT Transporte AVRCP (USB)
+2025-12-15 12:53:20.278 -05:00 [INF] Periférico conectado: Auriculares con micrófono (Tzumi SoundPlay) (USB)
+2025-12-15 12:53:20.284 -05:00 [INF] Periférico conectado: Wireless Controller (USB)
+2025-12-15 12:53:20.300 -05:00 [INF] Nuevo periférico registrado: Wireless Controller (ID: 1049)
+2025-12-15 12:53:20.305 -05:00 [INF] Periférico conectado: Enumerador de Bluetooth LE de Microsoft (USB)
+2025-12-15 12:53:20.311 -05:00 [INF] Periférico conectado: Tzumi SoundPlay Hands-Free (USB)
+2025-12-15 12:53:20.317 -05:00 [INF] Periférico conectado: AMD Audio Device (Auriculares)
+2025-12-15 12:53:20.324 -05:00 [INF] Periférico conectado: Mejorado (101 ó 102 teclas) (Teclado)
+2025-12-15 12:53:20.330 -05:00 [INF] Periférico conectado: Servicio de identificación de dispositivos (USB)
+2025-12-15 12:53:20.332 -05:00 [INF] Nuevo periférico registrado: Servicio de identificación de dispositivos (ID: 1050)
+2025-12-15 12:53:20.337 -05:00 [INF] Periférico conectado: Tzumi SoundPlay Hands-Free AG (USB)
+2025-12-15 12:53:20.342 -05:00 [INF] Periférico conectado: Bluetooth Device (RFCOMM Protocol TDI) (USB)
+2025-12-15 12:53:20.347 -05:00 [INF] Periférico conectado: Bluetooth HID Device (USB)
+2025-12-15 12:53:20.349 -05:00 [INF] Nuevo periférico registrado: Bluetooth HID Device (ID: 1051)
+2025-12-15 13:04:00.117 -05:00 [INF] Iniciando Monitor de Periféricos Service
+2025-12-15 13:04:00.249 -05:00 [INF] Monitor Worker iniciado
+2025-12-15 13:04:00.326 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-12-15 13:04:00.333 -05:00 [INF] Hosting environment: Production
+2025-12-15 13:04:00.336 -05:00 [INF] Content root path: C:\Users\rrpin\source\repos\ds4\Proyecto Final\MonitorService
+2025-12-15 13:04:00.411 -05:00 [INF] Conexión a base de datos establecida correctamente
+2025-12-15 13:04:00.746 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:04:00.749 -05:00 [INF] 🔍 USB-A Puerto 1: Estado inicial - LIBRE
+2025-12-15 13:04:00.820 -05:00 [INF] 🔍 USB-A Puerto 2: Estado inicial - LIBRE
+2025-12-15 13:04:00.825 -05:00 [INF] 🔍 USB-C Puerto 1: Estado inicial - LIBRE
+2025-12-15 13:04:00.828 -05:00 [INF] 🔍 Puerto HDMI: Estado inicial - LIBRE
+2025-12-15 13:04:00.831 -05:00 [INF] 🔍 Jack Audio: Estado inicial - LIBRE
+2025-12-15 13:04:00.833 -05:00 [INF] 🔍 Lector SD: Estado inicial - LIBRE
+2025-12-15 13:04:00.835 -05:00 [INF] 🔍 Puerto Carga: Estado inicial - CONECTADO
+2025-12-15 13:04:01.361 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:04:06.637 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:04:07.088 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:04:12.351 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:04:12.805 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:04:12.808 -05:00 [INF] Periférico conectado: Tzumi SoundPlay (USB)
+2025-12-15 13:04:12.873 -05:00 [INF] Periférico conectado: Microsoft Print to PDF (Impresora)
+2025-12-15 13:04:12.881 -05:00 [INF] Periférico conectado: OneNote (Desktop) (Impresora)
+2025-12-15 13:04:12.889 -05:00 [INF] Periférico conectado: Concentrador raíz USB (USB 3.0) (USB)
+2025-12-15 13:04:12.894 -05:00 [INF] Periférico conectado: POCO X3 GT Hands-Free HF (USB)
+2025-12-15 13:04:12.902 -05:00 [INF] Periférico conectado: Servicio de inserción de objeto (USB)
+2025-12-15 13:04:12.908 -05:00 [INF] Periférico conectado: Realtek High Definition Audio (Auriculares)
+2025-12-15 13:04:12.915 -05:00 [INF] Periférico conectado: POCO X3 GT Transporte AVRCP (USB)
+2025-12-15 13:04:12.923 -05:00 [INF] Periférico conectado: Concentrador raíz USB (USB 3.0) (USB)
+2025-12-15 13:04:12.930 -05:00 [INF] Periférico conectado: Servicio de red de área personal (USB)
+2025-12-15 13:04:12.936 -05:00 [INF] Periférico conectado: Monitor PnP genérico (Monitor)
+2025-12-15 13:04:12.942 -05:00 [INF] Periférico conectado: Tzumi SoundPlay Transporte AVRCP (USB)
+2025-12-15 13:04:12.950 -05:00 [INF] Periférico conectado: Enumerador Bluetooth de Microsoft (USB)
+2025-12-15 13:04:12.958 -05:00 [INF] Periférico conectado: Steam Streaming Speakers (Auriculares)
+2025-12-15 13:04:12.964 -05:00 [INF] Periférico conectado: POCO X3 GT (USB)
+2025-12-15 13:04:12.971 -05:00 [INF] Periférico conectado: HP TrueVision HD Camera (USB)
+2025-12-15 13:04:12.978 -05:00 [INF] Periférico conectado: POCO X3 GT A2DP SNK (USB)
+2025-12-15 13:04:12.986 -05:00 [INF] Periférico conectado: Dispositivo compuesto USB (USB)
+2025-12-15 13:04:12.993 -05:00 [INF] Periférico conectado: Servicio NAP de red de área personal (USB)
+2025-12-15 13:04:13.000 -05:00 [INF] Periférico conectado: Serie estándar sobre el vínculo Bluetooth (COM3) (USB)
+2025-12-15 13:04:13.007 -05:00 [INF] Periférico conectado: Auriculares (Tzumi SoundPlay) (USB)
+2025-12-15 13:04:13.014 -05:00 [INF] Periférico conectado: Servicio de acceso a SIM (USB)
+2025-12-15 13:04:13.019 -05:00 [INF] Periférico conectado: POCO X3 GT Hands-Free HF Audio (USB)
+2025-12-15 13:04:13.024 -05:00 [INF] Periférico conectado: AMD High Definition Audio Device (Auriculares)
+2025-12-15 13:04:13.030 -05:00 [INF] Periférico conectado: AMD Streaming Audio Device (Auriculares)
+2025-12-15 13:04:13.034 -05:00 [INF] Periférico conectado: Servicio de puerta de enlace de audio de auriculares con micrófono (USB)
+2025-12-15 13:04:13.041 -05:00 [INF] Periférico conectado: Dispositivo periférico Bluetooth (USB)
+2025-12-15 13:04:13.049 -05:00 [INF] Periférico conectado: SMS/MMS (USB)
+2025-12-15 13:04:13.056 -05:00 [INF] Periférico conectado: Tzumi SoundPlay (USB)
+2025-12-15 13:04:13.063 -05:00 [INF] Periférico conectado: Dispositivo periférico Bluetooth (USB)
+2025-12-15 13:04:13.069 -05:00 [INF] Periférico conectado: Steam Streaming Microphone (Auriculares)
+2025-12-15 13:04:13.075 -05:00 [INF] Periférico conectado: Dispositivo periférico Bluetooth (USB)
+2025-12-15 13:04:13.080 -05:00 [INF] Periférico conectado: Tzumi SoundPlay Transporte AVRCP (USB)
+2025-12-15 13:04:13.087 -05:00 [INF] Periférico conectado: Realtek Bluetooth 4.2 Adapter (USB)
+2025-12-15 13:04:13.093 -05:00 [INF] Periférico conectado: Servicio de acceso a la guía telefónica (PSE) (USB)
+2025-12-15 13:04:13.098 -05:00 [INF] Periférico conectado: Auriculares con micrófono (Tzumi SoundPlay Hands-Free) (USB)
+2025-12-15 13:04:13.105 -05:00 [INF] Periférico conectado: ELAN Input Device (Mouse)
+2025-12-15 13:04:13.111 -05:00 [INF] Periférico conectado: Serie estándar sobre el vínculo Bluetooth (COM4) (USB)
+2025-12-15 13:04:13.118 -05:00 [INF] Periférico conectado: Bluetooth Device (Personal Area Network) (USB)
+2025-12-15 13:04:13.126 -05:00 [INF] Periférico conectado: POCO X3 GT Transporte AVRCP (USB)
+2025-12-15 13:04:13.132 -05:00 [INF] Periférico conectado: Auriculares con micrófono (Tzumi SoundPlay) (USB)
+2025-12-15 13:04:13.138 -05:00 [INF] Periférico conectado: Wireless Controller (USB)
+2025-12-15 13:04:13.143 -05:00 [INF] Periférico conectado: Enumerador de Bluetooth LE de Microsoft (USB)
+2025-12-15 13:04:13.149 -05:00 [INF] Periférico conectado: Tzumi SoundPlay Hands-Free (USB)
+2025-12-15 13:04:13.156 -05:00 [INF] Periférico conectado: AMD Audio Device (Auriculares)
+2025-12-15 13:04:13.162 -05:00 [INF] Periférico conectado: Mejorado (101 ó 102 teclas) (Teclado)
+2025-12-15 13:04:13.167 -05:00 [INF] Periférico conectado: Servicio de identificación de dispositivos (USB)
+2025-12-15 13:04:13.173 -05:00 [INF] Periférico conectado: Tzumi SoundPlay Hands-Free AG (USB)
+2025-12-15 13:04:13.178 -05:00 [INF] Periférico conectado: Bluetooth Device (RFCOMM Protocol TDI) (USB)
+2025-12-15 13:04:13.183 -05:00 [INF] Periférico conectado: Bluetooth HID Device (USB)
+2025-12-15 13:04:18.454 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:04:18.916 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:04:24.251 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:04:24.697 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:04:30.015 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:04:30.503 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:04:35.807 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:04:36.264 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:04:41.607 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:04:42.064 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:04:47.389 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:04:47.832 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:04:53.166 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:04:53.627 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:04:58.949 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:04:59.423 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:05:04.736 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:05:05.201 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:05:10.531 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:05:10.998 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:05:16.322 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:05:16.792 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:05:22.105 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:05:22.531 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:05:27.856 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:05:28.311 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:05:33.642 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:05:34.105 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:05:39.438 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:05:39.882 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:05:45.195 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:05:45.626 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:05:50.947 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:05:51.383 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:05:56.697 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:05:57.166 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:06:02.498 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:06:02.965 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:06:08.295 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:06:08.758 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:06:13.878 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:06:14.343 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:06:19.600 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:06:20.057 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:06:25.292 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:06:25.734 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:06:31.073 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:06:31.527 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:06:36.980 -05:00 [INF] Puerto Carga: LIBRE - Desconectado
+2025-12-15 13:06:36.993 -05:00 [WRN] ❌ Puerto Carga: Dispositivo DESCONECTADO
+2025-12-15 13:06:40.635 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:06:45.909 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:06:45.912 -05:00 [INF] ✅ Puerto Carga: Dispositivo CONECTADO - Cargando (100%)
+2025-12-15 13:06:46.380 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:06:51.598 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:06:52.066 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:06:57.386 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:06:57.853 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:07:03.183 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:07:03.646 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:07:08.973 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:07:09.437 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:07:14.763 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:07:15.214 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:07:20.520 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:07:20.976 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:07:26.325 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:07:26.760 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:07:32.094 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:07:32.547 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:07:37.867 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:07:38.346 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:07:43.671 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:07:44.123 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:07:49.462 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:07:49.910 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:07:55.233 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:07:55.695 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:08:01.023 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:08:01.480 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:08:06.808 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:08:07.263 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:08:12.588 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:08:13.027 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:08:18.350 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:08:18.802 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:08:24.121 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:08:24.538 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:08:29.871 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:08:30.335 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:08:35.672 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:08:36.151 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:08:41.500 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:08:41.986 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:08:47.348 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:08:47.822 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:08:53.145 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:08:53.577 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:08:58.900 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:08:59.357 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:09:04.674 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:09:05.122 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:09:10.463 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:09:10.917 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:09:16.242 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:09:16.705 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:09:22.020 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:09:22.487 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:09:27.805 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:09:28.249 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:09:33.569 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:09:34.033 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:09:39.356 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:09:39.803 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:09:45.125 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:09:45.585 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:09:50.912 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:09:51.396 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:09:56.735 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:09:57.176 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:10:02.482 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:10:02.945 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:10:08.155 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:10:08.607 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:10:13.738 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:10:14.170 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:10:19.507 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:10:19.974 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:10:25.293 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:10:25.771 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:10:31.073 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:10:31.521 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:10:36.830 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:10:37.278 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:10:42.389 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:10:42.834 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:10:48.137 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:10:48.594 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:10:53.923 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:10:54.406 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:10:59.701 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:11:00.154 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:11:05.476 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:11:05.965 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:11:11.283 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:11:11.714 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:11:17.049 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:11:17.520 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:11:22.836 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:11:23.281 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:11:28.618 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:11:29.094 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:11:34.424 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:11:34.883 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:11:40.205 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:11:40.697 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:11:46.082 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:11:46.545 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:11:51.866 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:11:52.316 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:11:55.782 -05:00 [INF] Application is shutting down...
+2025-12-15 13:11:55.799 -05:00 [ERR] Error en el ciclo de monitoreo
+System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at MonitorService.MonitorWorker.ExecuteAsync(CancellationToken stoppingToken) in C:\Users\rrpin\source\repos\ds4\Proyecto Final\MonitorService\MonitorWorker.cs:line 50
+2025-12-15 13:12:19.366 -05:00 [INF] Iniciando Monitor de Periféricos Service
+2025-12-15 13:12:19.548 -05:00 [INF] Monitor Worker iniciado
+2025-12-15 13:12:19.646 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-12-15 13:12:19.653 -05:00 [INF] Hosting environment: Production
+2025-12-15 13:12:19.656 -05:00 [INF] Content root path: C:\Users\rrpin\source\repos\ds4\Proyecto Final\MonitorService
+2025-12-15 13:12:19.740 -05:00 [INF] Conexión a base de datos establecida correctamente
+2025-12-15 13:12:20.047 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:12:20.050 -05:00 [INF] 🔍 USB-A Puerto 1: Estado inicial - LIBRE
+2025-12-15 13:12:20.122 -05:00 [INF] 🔍 USB-A Puerto 2: Estado inicial - LIBRE
+2025-12-15 13:12:20.127 -05:00 [INF] 🔍 USB-C Puerto 1: Estado inicial - LIBRE
+2025-12-15 13:12:20.130 -05:00 [INF] 🔍 Puerto HDMI: Estado inicial - LIBRE
+2025-12-15 13:12:20.132 -05:00 [INF] 🔍 Jack Audio: Estado inicial - LIBRE
+2025-12-15 13:12:20.134 -05:00 [INF] 🔍 Lector SD: Estado inicial - LIBRE
+2025-12-15 13:12:20.137 -05:00 [INF] 🔍 Puerto Carga: Estado inicial - CONECTADO
+2025-12-15 13:12:20.631 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:12:25.901 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:12:26.363 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:12:31.630 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:12:32.090 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:12:32.095 -05:00 [INF] Periférico conectado: Tzumi SoundPlay (USB)
+2025-12-15 13:12:32.162 -05:00 [INF] Periférico conectado: Microsoft Print to PDF (Impresora)
+2025-12-15 13:12:32.169 -05:00 [INF] Periférico conectado: OneNote (Desktop) (Impresora)
+2025-12-15 13:12:32.177 -05:00 [INF] Periférico conectado: Concentrador raíz USB (USB 3.0) (USB)
+2025-12-15 13:12:32.185 -05:00 [INF] Periférico conectado: POCO X3 GT Hands-Free HF (USB)
+2025-12-15 13:12:32.194 -05:00 [INF] Periférico conectado: Servicio de inserción de objeto (USB)
+2025-12-15 13:12:32.202 -05:00 [INF] Periférico conectado: Realtek High Definition Audio (Auriculares)
+2025-12-15 13:12:32.209 -05:00 [INF] Periférico conectado: POCO X3 GT Transporte AVRCP (USB)
+2025-12-15 13:12:32.215 -05:00 [INF] Periférico conectado: Concentrador raíz USB (USB 3.0) (USB)
+2025-12-15 13:12:32.223 -05:00 [INF] Periférico conectado: Servicio de red de área personal (USB)
+2025-12-15 13:12:32.232 -05:00 [INF] Periférico conectado: Monitor PnP genérico (Monitor)
+2025-12-15 13:12:32.240 -05:00 [INF] Periférico conectado: Tzumi SoundPlay Transporte AVRCP (USB)
+2025-12-15 13:12:32.248 -05:00 [INF] Periférico conectado: Enumerador Bluetooth de Microsoft (USB)
+2025-12-15 13:12:32.255 -05:00 [INF] Periférico conectado: Steam Streaming Speakers (Auriculares)
+2025-12-15 13:12:32.265 -05:00 [INF] Periférico conectado: POCO X3 GT (USB)
+2025-12-15 13:12:32.273 -05:00 [INF] Periférico conectado: HP TrueVision HD Camera (USB)
+2025-12-15 13:12:32.282 -05:00 [INF] Periférico conectado: POCO X3 GT A2DP SNK (USB)
+2025-12-15 13:12:32.290 -05:00 [INF] Periférico conectado: Dispositivo compuesto USB (USB)
+2025-12-15 13:12:32.298 -05:00 [INF] Periférico conectado: Servicio NAP de red de área personal (USB)
+2025-12-15 13:12:32.305 -05:00 [INF] Periférico conectado: Serie estándar sobre el vínculo Bluetooth (COM3) (USB)
+2025-12-15 13:12:32.312 -05:00 [INF] Periférico conectado: Auriculares (Tzumi SoundPlay) (USB)
+2025-12-15 13:12:32.320 -05:00 [INF] Periférico conectado: Servicio de acceso a SIM (USB)
+2025-12-15 13:12:32.328 -05:00 [INF] Periférico conectado: POCO X3 GT Hands-Free HF Audio (USB)
+2025-12-15 13:12:32.335 -05:00 [INF] Periférico conectado: AMD High Definition Audio Device (Auriculares)
+2025-12-15 13:12:32.344 -05:00 [INF] Periférico conectado: AMD Streaming Audio Device (Auriculares)
+2025-12-15 13:12:32.351 -05:00 [INF] Periférico conectado: Servicio de puerta de enlace de audio de auriculares con micrófono (USB)
+2025-12-15 13:12:32.359 -05:00 [INF] Periférico conectado: Dispositivo periférico Bluetooth (USB)
+2025-12-15 13:12:32.367 -05:00 [INF] Periférico conectado: SMS/MMS (USB)
+2025-12-15 13:12:32.375 -05:00 [INF] Periférico conectado: Tzumi SoundPlay (USB)
+2025-12-15 13:12:32.382 -05:00 [INF] Periférico conectado: Dispositivo periférico Bluetooth (USB)
+2025-12-15 13:12:32.390 -05:00 [INF] Periférico conectado: Steam Streaming Microphone (Auriculares)
+2025-12-15 13:12:32.397 -05:00 [INF] Periférico conectado: Dispositivo periférico Bluetooth (USB)
+2025-12-15 13:12:32.402 -05:00 [INF] Periférico conectado: Tzumi SoundPlay Transporte AVRCP (USB)
+2025-12-15 13:12:32.409 -05:00 [INF] Periférico conectado: Realtek Bluetooth 4.2 Adapter (USB)
+2025-12-15 13:12:32.415 -05:00 [INF] Periférico conectado: Servicio de acceso a la guía telefónica (PSE) (USB)
+2025-12-15 13:12:32.421 -05:00 [INF] Periférico conectado: Auriculares con micrófono (Tzumi SoundPlay Hands-Free) (USB)
+2025-12-15 13:12:32.427 -05:00 [INF] Periférico conectado: ELAN Input Device (Mouse)
+2025-12-15 13:12:32.434 -05:00 [INF] Periférico conectado: Serie estándar sobre el vínculo Bluetooth (COM4) (USB)
+2025-12-15 13:12:32.441 -05:00 [INF] Periférico conectado: Bluetooth Device (Personal Area Network) (USB)
+2025-12-15 13:12:32.447 -05:00 [INF] Periférico conectado: POCO X3 GT Transporte AVRCP (USB)
+2025-12-15 13:12:32.454 -05:00 [INF] Periférico conectado: Auriculares con micrófono (Tzumi SoundPlay) (USB)
+2025-12-15 13:12:32.461 -05:00 [INF] Periférico conectado: Wireless Controller (USB)
+2025-12-15 13:12:32.468 -05:00 [INF] Periférico conectado: Enumerador de Bluetooth LE de Microsoft (USB)
+2025-12-15 13:12:32.474 -05:00 [INF] Periférico conectado: Tzumi SoundPlay Hands-Free (USB)
+2025-12-15 13:12:32.481 -05:00 [INF] Periférico conectado: AMD Audio Device (Auriculares)
+2025-12-15 13:12:32.487 -05:00 [INF] Periférico conectado: Mejorado (101 ó 102 teclas) (Teclado)
+2025-12-15 13:12:32.495 -05:00 [INF] Periférico conectado: Servicio de identificación de dispositivos (USB)
+2025-12-15 13:12:32.501 -05:00 [INF] Periférico conectado: Tzumi SoundPlay Hands-Free AG (USB)
+2025-12-15 13:12:32.508 -05:00 [INF] Periférico conectado: Bluetooth Device (RFCOMM Protocol TDI) (USB)
+2025-12-15 13:12:32.515 -05:00 [INF] Periférico conectado: Bluetooth HID Device (USB)
+2025-12-15 13:12:37.777 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:12:38.199 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:12:43.561 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:12:44.050 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:12:49.383 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:12:49.844 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:12:55.180 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:12:55.625 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:13:00.953 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:13:01.390 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:13:06.711 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:13:07.157 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:13:12.471 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:13:12.928 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:13:18.269 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:13:18.752 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:13:24.104 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:13:24.553 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:13:29.901 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:13:30.403 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:13:35.730 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:13:36.175 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:13:41.503 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:13:41.950 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:13:47.287 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:13:47.751 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:13:53.077 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:13:53.592 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:13:58.945 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:13:59.404 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:14:04.731 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:14:05.178 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:14:10.500 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:14:10.933 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:14:16.255 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:14:16.683 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:14:22.023 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:14:22.477 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:14:27.628 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:14:28.087 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:14:33.426 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:14:33.886 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:14:39.217 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:14:39.660 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:14:44.772 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:14:45.232 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:14:50.544 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:14:51.008 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:14:56.314 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:14:56.765 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:15:02.095 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:15:02.555 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:15:07.699 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:15:08.124 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:15:13.462 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:15:13.873 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:15:19.177 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:15:19.621 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:15:24.985 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:15:25.431 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:15:30.733 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:15:31.187 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:15:36.510 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:15:36.960 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:15:42.287 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:15:42.766 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:15:48.085 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:15:48.540 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:15:53.875 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:15:54.305 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:15:59.643 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:16:00.093 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:16:05.418 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:16:05.845 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:16:11.184 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:16:11.648 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:16:16.989 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:16:17.413 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:16:22.749 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:16:23.190 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:16:28.497 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:16:28.946 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:16:34.267 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:16:34.703 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:16:40.019 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:16:40.539 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:16:45.876 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:16:46.358 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:16:51.676 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:16:52.168 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:16:57.293 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:16:57.794 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:17:03.124 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:17:03.643 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:17:08.959 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:17:09.465 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:17:14.799 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:17:15.250 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:17:20.613 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:17:21.074 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:17:26.406 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:17:26.840 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:17:32.161 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:17:32.597 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:17:37.946 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:17:38.384 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:17:43.709 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:17:44.147 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:17:49.473 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:17:49.920 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:17:55.236 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:17:55.700 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:18:01.019 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:18:01.475 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:18:06.773 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:18:07.200 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:18:12.517 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:18:12.986 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:18:18.297 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:18:18.761 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:18:24.067 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:18:24.519 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:18:29.854 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:18:30.313 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:18:35.639 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:18:36.089 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:18:41.429 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:18:41.866 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:18:47.178 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:18:47.619 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:18:52.911 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:18:53.384 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:18:58.707 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:18:59.231 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:19:04.560 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:19:05.030 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:19:10.362 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:19:10.818 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:19:10.837 -05:00 [ERR] Error al registrar periférico: Tzumi SoundPlay
+Microsoft.Data.SqlClient.SqlException (0x80131904): Login failed for user 'Zerotwo\rrpin'.
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, Boolean withFailover)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString connectionOptions, SqlCredential credential, TimeoutTimer timeout)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(TimeoutTimer timeout, SqlConnectionString connectionOptions, SqlCredential credential, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling, String accessToken, DbConnectionPool pool)
+   at Microsoft.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.InternalOpenAsync(CancellationToken cancellationToken)
+--- End of stack trace from previous location ---
+   at Dapper.SqlMapper.QueryRowAsync[T](IDbConnection cnn, Row row, Type effectiveType, CommandDefinition command) in /_/Dapper/SqlMapper.Async.cs:line 488
+   at MonitorService.DatabaseService.GetOrCreatePeripheralAsync(PeripheralInfo peripheral) in C:\Users\rrpin\source\repos\ds4\Proyecto Final\MonitorService\Services\DatabaseService.cs:line 43
+ClientConnectionId:ada3e11c-c41b-4a6a-a953-a6bab2129c09
+Error Number:18456,State:1,Class:14
+2025-12-15 13:19:10.887 -05:00 [ERR] Error en el ciclo de monitoreo
+Microsoft.Data.SqlClient.SqlException (0x80131904): Login failed for user 'Zerotwo\rrpin'.
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, Boolean withFailover)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString connectionOptions, SqlCredential credential, TimeoutTimer timeout)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(TimeoutTimer timeout, SqlConnectionString connectionOptions, SqlCredential credential, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling, String accessToken, DbConnectionPool pool)
+   at Microsoft.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.InternalOpenAsync(CancellationToken cancellationToken)
+--- End of stack trace from previous location ---
+   at Dapper.SqlMapper.QueryRowAsync[T](IDbConnection cnn, Row row, Type effectiveType, CommandDefinition command) in /_/Dapper/SqlMapper.Async.cs:line 488
+   at MonitorService.DatabaseService.GetOrCreatePeripheralAsync(PeripheralInfo peripheral) in C:\Users\rrpin\source\repos\ds4\Proyecto Final\MonitorService\Services\DatabaseService.cs:line 43
+   at MonitorService.MonitorWorker.HandlePeripheralActiveAsync(PeripheralInfo peripheral) in C:\Users\rrpin\source\repos\ds4\Proyecto Final\MonitorService\MonitorWorker.cs:line 124
+   at MonitorService.MonitorWorker.ProcessPeripheralChangesAsync(List`1 currentPeripherals) in C:\Users\rrpin\source\repos\ds4\Proyecto Final\MonitorService\MonitorWorker.cs:line 76
+   at MonitorService.MonitorWorker.ExecuteAsync(CancellationToken stoppingToken) in C:\Users\rrpin\source\repos\ds4\Proyecto Final\MonitorService\MonitorWorker.cs:line 47
+ClientConnectionId:ada3e11c-c41b-4a6a-a953-a6bab2129c09
+Error Number:18456,State:1,Class:14
+2025-12-15 13:19:21.165 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:19:21.615 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:19:21.637 -05:00 [INF] Nuevo periférico registrado: Tzumi SoundPlay (ID: 1)
+2025-12-15 13:19:21.641 -05:00 [INF] Nuevo periférico registrado: Microsoft Print to PDF (ID: 2)
+2025-12-15 13:19:21.643 -05:00 [INF] Nuevo periférico registrado: OneNote (Desktop) (ID: 3)
+2025-12-15 13:19:21.646 -05:00 [INF] Nuevo periférico registrado: Concentrador raíz USB (USB 3.0) (ID: 4)
+2025-12-15 13:19:21.649 -05:00 [INF] Nuevo periférico registrado: POCO X3 GT Hands-Free HF (ID: 5)
+2025-12-15 13:19:21.651 -05:00 [INF] Nuevo periférico registrado: Servicio de inserción de objeto (ID: 6)
+2025-12-15 13:19:21.655 -05:00 [INF] Nuevo periférico registrado: Realtek High Definition Audio (ID: 7)
+2025-12-15 13:19:21.657 -05:00 [INF] Nuevo periférico registrado: POCO X3 GT Transporte AVRCP (ID: 8)
+2025-12-15 13:19:21.660 -05:00 [INF] Nuevo periférico registrado: Concentrador raíz USB (USB 3.0) (ID: 9)
+2025-12-15 13:19:21.662 -05:00 [INF] Nuevo periférico registrado: Servicio de red de área personal (ID: 10)
+2025-12-15 13:19:21.664 -05:00 [INF] Nuevo periférico registrado: Monitor PnP genérico (ID: 11)
+2025-12-15 13:19:21.666 -05:00 [INF] Nuevo periférico registrado: Tzumi SoundPlay Transporte AVRCP (ID: 12)
+2025-12-15 13:19:21.668 -05:00 [INF] Nuevo periférico registrado: Enumerador Bluetooth de Microsoft (ID: 13)
+2025-12-15 13:19:21.671 -05:00 [INF] Nuevo periférico registrado: Steam Streaming Speakers (ID: 14)
+2025-12-15 13:19:21.674 -05:00 [INF] Nuevo periférico registrado: POCO X3 GT (ID: 15)
+2025-12-15 13:19:21.677 -05:00 [INF] Nuevo periférico registrado: HP TrueVision HD Camera (ID: 16)
+2025-12-15 13:19:21.680 -05:00 [INF] Nuevo periférico registrado: POCO X3 GT A2DP SNK (ID: 17)
+2025-12-15 13:19:21.682 -05:00 [INF] Nuevo periférico registrado: Dispositivo compuesto USB (ID: 18)
+2025-12-15 13:19:21.684 -05:00 [INF] Nuevo periférico registrado: Servicio NAP de red de área personal (ID: 19)
+2025-12-15 13:19:21.688 -05:00 [INF] Nuevo periférico registrado: Serie estándar sobre el vínculo Bluetooth (COM3) (ID: 20)
+2025-12-15 13:19:21.691 -05:00 [INF] Nuevo periférico registrado: Auriculares (Tzumi SoundPlay) (ID: 21)
+2025-12-15 13:19:21.693 -05:00 [INF] Nuevo periférico registrado: Servicio de acceso a SIM (ID: 22)
+2025-12-15 13:19:21.695 -05:00 [INF] Nuevo periférico registrado: POCO X3 GT Hands-Free HF Audio (ID: 23)
+2025-12-15 13:19:21.697 -05:00 [INF] Nuevo periférico registrado: AMD High Definition Audio Device (ID: 24)
+2025-12-15 13:19:21.699 -05:00 [INF] Nuevo periférico registrado: AMD Streaming Audio Device (ID: 25)
+2025-12-15 13:19:21.701 -05:00 [INF] Nuevo periférico registrado: Servicio de puerta de enlace de audio de auriculares con micrófono (ID: 26)
+2025-12-15 13:19:21.704 -05:00 [INF] Nuevo periférico registrado: Dispositivo periférico Bluetooth (ID: 27)
+2025-12-15 13:19:21.707 -05:00 [INF] Nuevo periférico registrado: SMS/MMS (ID: 28)
+2025-12-15 13:19:21.710 -05:00 [INF] Nuevo periférico registrado: Tzumi SoundPlay (ID: 29)
+2025-12-15 13:19:21.715 -05:00 [INF] Nuevo periférico registrado: Dispositivo periférico Bluetooth (ID: 30)
+2025-12-15 13:19:21.718 -05:00 [INF] Nuevo periférico registrado: Steam Streaming Microphone (ID: 31)
+2025-12-15 13:19:21.722 -05:00 [INF] Nuevo periférico registrado: Dispositivo periférico Bluetooth (ID: 32)
+2025-12-15 13:19:21.724 -05:00 [INF] Nuevo periférico registrado: Tzumi SoundPlay Transporte AVRCP (ID: 33)
+2025-12-15 13:19:21.727 -05:00 [INF] Nuevo periférico registrado: Realtek Bluetooth 4.2 Adapter (ID: 34)
+2025-12-15 13:19:21.728 -05:00 [INF] Nuevo periférico registrado: Servicio de acceso a la guía telefónica (PSE) (ID: 35)
+2025-12-15 13:19:21.730 -05:00 [INF] Nuevo periférico registrado: Auriculares con micrófono (Tzumi SoundPlay Hands-Free) (ID: 36)
+2025-12-15 13:19:21.732 -05:00 [INF] Nuevo periférico registrado: ELAN Input Device (ID: 37)
+2025-12-15 13:19:21.734 -05:00 [INF] Nuevo periférico registrado: Serie estándar sobre el vínculo Bluetooth (COM4) (ID: 38)
+2025-12-15 13:19:21.738 -05:00 [INF] Nuevo periférico registrado: Bluetooth Device (Personal Area Network) (ID: 39)
+2025-12-15 13:19:21.742 -05:00 [INF] Nuevo periférico registrado: POCO X3 GT Transporte AVRCP (ID: 40)
+2025-12-15 13:19:21.744 -05:00 [INF] Nuevo periférico registrado: Auriculares con micrófono (Tzumi SoundPlay) (ID: 41)
+2025-12-15 13:19:21.746 -05:00 [INF] Nuevo periférico registrado: Wireless Controller (ID: 42)
+2025-12-15 13:19:21.747 -05:00 [INF] Nuevo periférico registrado: Enumerador de Bluetooth LE de Microsoft (ID: 43)
+2025-12-15 13:19:21.749 -05:00 [INF] Nuevo periférico registrado: Tzumi SoundPlay Hands-Free (ID: 44)
+2025-12-15 13:19:21.751 -05:00 [INF] Nuevo periférico registrado: AMD Audio Device (ID: 45)
+2025-12-15 13:19:21.755 -05:00 [INF] Nuevo periférico registrado: Mejorado (101 ó 102 teclas) (ID: 46)
+2025-12-15 13:19:21.757 -05:00 [INF] Nuevo periférico registrado: Servicio de identificación de dispositivos (ID: 47)
+2025-12-15 13:19:21.759 -05:00 [INF] Nuevo periférico registrado: Tzumi SoundPlay Hands-Free AG (ID: 48)
+2025-12-15 13:19:21.761 -05:00 [INF] Nuevo periférico registrado: Bluetooth Device (RFCOMM Protocol TDI) (ID: 49)
+2025-12-15 13:19:21.762 -05:00 [INF] Nuevo periférico registrado: Bluetooth HID Device (ID: 50)
+2025-12-15 13:19:27.032 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:19:27.536 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:19:32.861 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:19:33.292 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:19:38.601 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:19:39.050 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:19:44.362 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:19:44.816 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:19:50.142 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:19:50.602 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:19:55.946 -05:00 [INF] Puerto Carga: LIBRE - Desconectado
+2025-12-15 13:19:55.958 -05:00 [WRN] ❌ Puerto Carga: Dispositivo DESCONECTADO
+2025-12-15 13:19:59.887 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:20:05.456 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:20:05.458 -05:00 [INF] ✅ Puerto Carga: Dispositivo CONECTADO - Cargando (100%)
+2025-12-15 13:20:05.933 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:20:11.139 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:20:11.596 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:20:16.917 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:20:17.391 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:20:22.714 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:20:23.144 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:20:28.446 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:20:28.877 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:20:34.191 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:20:34.639 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:20:39.979 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:20:40.420 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:20:45.739 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:20:46.198 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:20:51.508 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:20:51.946 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:20:57.272 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:20:57.736 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:21:03.058 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:21:03.542 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:21:08.856 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:21:09.294 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:21:14.589 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:21:15.019 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:21:20.334 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:21:20.790 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:21:26.092 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:21:26.561 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:21:31.872 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:21:32.353 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:21:37.692 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:21:38.160 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:21:43.477 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:21:43.943 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:21:49.278 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:21:49.757 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:21:55.066 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:21:55.508 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:22:00.837 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:22:01.279 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:22:06.625 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:22:07.102 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:22:12.443 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:22:12.971 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:22:18.291 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:22:18.832 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:22:24.145 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:22:24.597 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:22:29.919 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:22:30.379 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:22:35.697 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:22:36.167 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:22:41.496 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:22:41.945 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:22:47.247 -05:00 [INF] Puerto Carga: CONECTADO - Cargando (100%)
+2025-12-15 13:22:47.691 -05:00 [INF] Escaneados 50 periféricos
+2025-12-15 13:22:49.933 -05:00 [INF] Application is shutting down...
+2025-12-15 13:22:49.936 -05:00 [ERR] Error en el ciclo de monitoreo
+System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at MonitorService.MonitorWorker.ExecuteAsync(CancellationToken stoppingToken) in C:\Users\rrpin\source\repos\ds4\Proyecto Final\MonitorService\MonitorWorker.cs:line 50

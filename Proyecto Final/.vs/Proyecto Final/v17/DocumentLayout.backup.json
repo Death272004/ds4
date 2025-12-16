@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89E08522-7411-5F1E-EBDE-F397FEF570D3}|MonitorService\\MonitorService.csproj|c:\\users\\rrpin\\source\\repos\\ds4\\proyecto final\\monitorservice\\services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E08522-7411-5F1E-EBDE-F397FEF570D3}|MonitorService\\MonitorService.csproj|solutionrelative:monitorservice\\services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto Final\\VerificarBD.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VerificarBD.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatabaseService.cs",
+              "DocumentMoniker": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto Final\\MonitorService\\Services\\DatabaseService.cs",
+              "RelativeDocumentMoniker": "MonitorService\\Services\\DatabaseService.cs",
+              "ToolTip": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto Final\\MonitorService\\Services\\DatabaseService.cs",
+              "RelativeToolTip": "MonitorService\\Services\\DatabaseService.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T18:11:02.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VerificarBD.sql",
+              "DocumentMoniker": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto Final\\VerificarBD.sql",
+              "RelativeDocumentMoniker": "VerificarBD.sql",
+              "ToolTip": "C:\\Users\\rrpin\\source\\repos\\ds4\\Proyecto Final\\VerificarBD.sql",
+              "RelativeToolTip": "VerificarBD.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-12-05T20:51:26.796Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
